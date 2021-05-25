@@ -1,0 +1,40 @@
+38
+0 age 
+0 workclass 
+0 education 
+0 maritalstatus 
+0 occupation 
+0 relationship 
+0 race 
+0 sex 
+0 hoursperweek 
+0 country 
+0 income 
+1 age >50
+1 age 31-50
+1 age 22-30
+1 workclass Private
+1 education Bachelors
+1 education Some-college
+1 education HS-grad
+1 maritalstatus Divorced
+1 maritalstatus Married-civ-spouse
+1 maritalstatus Never-married
+1 occupation Exec-managerial
+1 occupation Prof-specialty
+1 occupation Craft-repair
+1 occupation Adm-clerical
+1 occupation Other-service
+1 occupation Sales
+1 relationship Unmarried
+1 relationship Husband
+1 relationship Own-child
+1 relationship Not-in-family
+1 race White
+1 sex Female
+1 sex Male
+1 hoursperweek 40
+1 country United-States
+1 income MoreThan50K
+1 income LessThan50K
+

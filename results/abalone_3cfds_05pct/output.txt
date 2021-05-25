@@ -1,0 +1,17 @@
+init_sampling cost: 138ms.
+
+init_records.size(): 20
+init_errors.size(): 10
+
+init_learning cost: 1129ms.
+
+end_records.size(): 124
+end_errors.size(): 11
+
+#find_dirty_cells: 104, #dirty_cells: 122
+Recall1: 0.852459
+#my_find_dirty_cells: 93, #origin_find_dirty_cells: 93
+Recall2: 1
+
+rounds: 24, resampling_time: 581 ms. refinement_time: 8575 ms.
+trash_repository.size(): 3541

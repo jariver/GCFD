@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="alcfd_cpp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/jariver/Projects/GCFD/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jariver/Projects/GCFD/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jariver/Projects/GCFD/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jariver/Projects/GCFD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jariver/Projects/GCFD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/jariver/Projects/GCFD/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jariver/Projects/GCFD/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jariver/Projects/GCFD/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jariver/Projects/GCFD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jariver/Projects/GCFD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/jariver/Projects/GCFD/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jariver/Projects/GCFD/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jariver/Projects/GCFD/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jariver/Projects/GCFD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jariver/Projects/GCFD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="alcfd_cpp">
+				<Option output="/home/jariver/Projects/GCFD/cmake-build-debug/alcfd_cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jariver/Projects/GCFD/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jariver/Projects/GCFD/cmake-build-debug/Makefile&quot;  VERBOSE=1 alcfd_cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jariver/Projects/GCFD/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jariver/Projects/GCFD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jariver/Projects/GCFD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="alcfd_cpp/fast">
+				<Option output="/home/jariver/Projects/GCFD/cmake-build-debug/alcfd_cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jariver/Projects/GCFD/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jariver/Projects/GCFD/cmake-build-debug/Makefile&quot;  VERBOSE=1 alcfd_cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jariver/Projects/GCFD/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jariver/Projects/GCFD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jariver/Projects/GCFD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/jariver/Projects/GCFD/alcfd.cpp">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/alcfd.h">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/libs/CFDMeasure.cpp">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/libs/CFDMeasure.h">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/libs/CFDMeasure_2.cpp">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/libs/CFDMeasure_2.h">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/libs/init_sampling.cpp">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/libs/init_sampling.h">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/libs/predicate.cpp">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/libs/predicate.h">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/libs/predicates_space.cpp">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/libs/predicates_space.h">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/libs/processing.cpp">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/libs/processing.h">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/libs/re_sampling.cpp">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/libs/re_sampling.h">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/libs/record.cpp">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/libs/record.h">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/libs/rule.cpp">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/libs/rule.h">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/libs/tuple_pair.cpp">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/libs/tuple_pair.h">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/libs/using_name_sp.h">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/main.cpp">
+			<Option target="alcfd_cpp"/>
+		</Unit>
+		<Unit filename="/home/jariver/Projects/GCFD/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

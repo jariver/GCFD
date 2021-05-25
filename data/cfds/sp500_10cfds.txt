@@ -1,0 +1,10 @@
+(d,e,g)=>f
+(b,f,g)=>d
+(c,f,g)=>d
+(a,c,g)=>d
+(a,e,g)=>d
+(a,d,g)=>e
+(c,d,g)=>a
+(d,e,g)=>a
+(a,d,g)=>b
+(c,d,g)=>b

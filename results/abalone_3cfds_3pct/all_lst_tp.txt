@@ -1,0 +1,610 @@
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 1051 F 0.715 0.525 0.185 1.56 0.6655 0.383 0.405 11 
+right_data: 5228 F 0.715 0.525 0.185 1.56 0.6655 0.383 0.405 10 
+prediction: -1
+label: 1
+attr_id: 8 rings, error_value: 10, correct_value: 11
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 3269 M 0.41 0.31 0.125 0.3595 0.1415 0.0885 0.115 11 
+right_data: 7446 M 0.41 0.31 0.125 0.3595 0.1415 0.0885 0.115 1 
+prediction: -1
+label: 1
+attr_id: 8 rings, error_value: 1, correct_value: 11
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 3973 M 0.415 0.315 0.12 0.4015 0.199 0.087 0.097 8 
+right_data: 8150 M 0.415 0.315 0.12 0.4015 0.199 0.087 0.097  
+prediction: -1
+label: 1
+attr_id: 8 rings, error_value: , correct_value: 8
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 3476 I 0.4 0.315 0.085 0.2675 0.116 0.0585 0.0765 6 
+right_data: 7653 I 0.4 0.315 0.085 0.2675 0.116 0.0585 0.0765 l6 
+prediction: -1
+label: 1
+attr_id: 8 rings, error_value: l6, correct_value: 6
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 1201 F 0.72 0.55 0.2 1.9965 0.9035 0.469 0.5215 10 
+right_data: 5378 F 0.72 0.55 02. 1.9965 0.9035 0.469 0.5215 10 
+prediction: -1
+label: 1
+attr_id: 3 height, error_value: 02., correct_value: 0.2
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 1050 M 0.715 0.565 0.175 1.9525 0.7645 0.4185 0.4135 10 
+right_data: 5227 M 0.715 0.565 r0.175 1.9525 0.7645 0.4185 0.4135 10 
+prediction: -1
+label: 1
+attr_id: 3 height, error_value: r0.175, correct_value: 0.175
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 2732 I 0.41 0.315 0.1 0.3 0.124 0.0575 0.1 8 
+right_data: 6909 I 0.41 0.315 0.1 0.3 0.124 0.0575 0.1 *** 
+prediction: -1
+label: 1
+attr_id: 8 rings, error_value: ***, correct_value: 8
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 3362 M 0.41 0.315 0.095 0.306 0.121 0.0735 0.09 9 
+right_data: 7539 M 0.41 0.315 0.095 0.306 0.121 0.0735 0.09 o9 
+prediction: -1
+label: 1
+attr_id: 8 rings, error_value: o9, correct_value: 9
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 1835 I 0.41 0.315 0.095 0.2805 0.114 0.0345 0.11 7 
+right_data: 6012 I 0.41 0.315 0.095 0.2805 0.114 0.0345 0.11  
+prediction: -1
+label: 1
+attr_id: 8 rings, error_value: , correct_value: 7
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 1443 I 0.41 0.32 0.095 0.2905 0.141 0.063 0.073 5 
+right_data: 5620 I 0.41 0.32 0.095 0.2905 0.141 0.063 0.073 h5 
+prediction: -1
+label: 1
+attr_id: 8 rings, error_value: h5, correct_value: 5
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 5900 F 0.655 0.51 0.51 1.043 0.4795 0.223 0.305 9 
+right_data: 5031 M 0.57 0.455 0.51 0.952 0.3895 0.2155 0.2745 9 
+prediction: -1
+label: 2
+attr_id: 3 height, error_value: 0.51, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 5496 I 0.555 0.43 014 0.7665 0.341 0.165 0.23 9 
+right_data: 6198 M 0.515 0.4 014 0.6335 0.288 0.145 0.168 9 
+prediction: -1
+label: 2
+attr_id: 3 height, error_value: 014, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 8183 F 0.555 0.43 01.4 0.7545 0.3525 0.1835 0.2015 9 
+right_data: 5862 I 0.62 0.47 01.4 0.8565 0.3595 0.16 0.295 9 
+prediction: -1
+label: 2
+attr_id: 3 height, error_value: 01.4, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 4361 F 0.62 0.475 0.75 1.0165 0.4355 0.214 0.325 10 
+right_data: 4677 M 0.555 0.45 0.75 0.874 0.3275 0.202 0.305 10 
+prediction: -1
+label: 2
+attr_id: 3 height, error_value: 0.75, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 5027 M 0.55 0.45 0.5 1.0145 0.407 0.2015 0.2875 10 
+right_data: 6144 F 0.665 0.5 0.5 1.2475 0.4625 0.2955 0.3595 10 
+prediction: -1
+label: 2
+attr_id: 3 height, error_value: 0.5, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 6037 I 0.515 0.415 0.315 0.7125 0.285 0.152 0.245 10 
+right_data: 5025 F 0.545 0.44 0.315 0.9185 0.429 0.2015 0.2375 10 
+prediction: -1
+label: 2
+attr_id: 3 height, error_value: 0.315, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 4400 F 0.49 0.375 0.51 0.5755 0.22 0.144 0.19 9 
+right_data: 5031 M 0.57 0.455 0.51 0.952 0.3895 0.2155 0.2745 9 
+prediction: -1
+label: 2
+attr_id: 3 height, error_value: 0.51, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 7998 M 0.57 0.44 .145 0.8815 0.3605 0.1955 0.2735 10 
+right_data: 7949 I 0.575 0.45 .145 0.795 0.364 0.1505 0.26 10 
+prediction: -1
+label: 2
+attr_id: 3 height, error_value: .145, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 5486 F 0.545 0.445 0.51 0.8 0.3535 0.163 0.207 9 
+right_data: 5031 M 0.57 0.455 0.51 0.952 0.3895 0.2155 0.2745 9 
+prediction: -1
+label: 2
+attr_id: 3 height, error_value: 0.51, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 7798 F 0.64 0.5 .017 1.2645 0.565 0.3375 0.315 9 
+right_data: 5852 M 0.61 0.47 .017 1.1185 0.5225 0.2405 0.31 9 
+prediction: -1
+label: 2
+attr_id: 3 height, error_value: .017, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 6970 M 0.625 0.49 .165 1.205 0.5175 0.3105 0.3465 10 
+right_data: 6129 F 0.64 0.515 .165 1.3115 0.4945 0.2555 0.41 10 
+prediction: -1
+label: 2
+attr_id: 3 height, error_value: .165, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 5805 M 0.57 0.45 0.41 0.795 0.3385 0.148 0.245 9 
+right_data: 5292 I 0.525 0.4 0.41 0.601 0.2625 0.1285 0.1835 9 
+prediction: -1
+label: 2
+attr_id: 3 height, error_value: 0.41, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 7798 F 0.64 0.5 .017 1.2645 0.565 0.3375 0.315 9 
+right_data: 354 M 0.58 0.455 .017 0.93 0.408 0.259 0.22 9 
+prediction: -1
+label: 2
+attr_id: 3 height, error_value: .017, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 4622 F 0.41 0.325 01.05 0.3635 0.159 0.077 0.12 10 
+right_data: 4402 I 0.425 0.38 01.05 0.3265 0.1285 0.0785 0.1 10 
+prediction: -1
+label: 2
+attr_id: 3 height, error_value: 01.05, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 5978 M 0.605 0.475 0.75 1.2525 0.5575 0.3055 0.343 9 
+right_data: 5348 F 0.625 0.485 0.75 1.3745 0.7335 0.2715 0.332 9 
+prediction: -1
+label: 2
+attr_id: 3 height, error_value: 0.75, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 3878 F 0.645 0.5 0.225 1.626 0.587 0.4055 0.41 15 
+right_data: 508 M 0.585 0.455 0.225 1.055 0.3815 0.221 0.365 15 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 6393 F 0.455 0.35 .14 0.5725 0.1965 0.1325 0.175 10 
+right_data: 4281 M 0.53 0.415 .14 0.724 0.3105 0.1675 0.205 10 
+prediction: -1
+label: 2
+attr_id: 3 height, error_value: .14, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 4281 M 0.53 0.415 .14 0.724 0.3105 0.1675 0.205 10 
+right_data: 6244 F 0.54 0.385 .14 0.7655 0.3265 0.116 0.2365 10 
+prediction: -1
+label: 2
+attr_id: 3 height, error_value: .14, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 1188 M 0.685 0.52 0.165 1.519 0.699 0.3685 0.4 10 
+right_data: 1521 M 0.67 0.5 0.19 1.519 0.616 0.3685 0.415 10 
+prediction: -1
+label: 1
+attr_id: 6 viscera, error_value: 0.3685, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 7578 M 0.53 0.43 0.135 0.879 0.28 0.208 0.25 10 
+right_data: 2442 M 0.54 0.415 0.17 0.879 0.339 0.208 0.255 10 
+prediction: -1
+label: 1
+attr_id: 6 viscera, error_value: 0.208, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 3962 M 0.695 0.55 0.205 2.173 1.133 0.4665 0.496 10 
+right_data: 2624 F 0.705 0.56 0.205 2.381 0.9915 0.5005 0.624 10 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 3315 I 0.45 0.355 0.115 0.4385 0.184 0.108 0.1125 11 
+right_data: 1264 F 0.455 0.365 0.115 0.4305 0.184 0.108 0.1245 8 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 3700 M 0.65 0.525 0.19 1.3685 0.5975 0.296 0.4 11 
+right_data: 3692 M 0.645 0.51 0.19 1.4865 0.6445 0.296 0.425 12 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 3058 M 0.615 0.49 0.17 1.145 0.4915 0.208 0.343 13 
+right_data: 2442 M 0.54 0.415 0.17 0.879 0.339 0.208 0.255 10 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 7389 F 0.6 0.48 0.165 1.1345 0.4535 0.2595 0.335 10 
+right_data: 2077 F 0.6 0.47 01.9 1.1345 0.492 0.2595 0.3375 10 
+prediction: -1
+label: 4
+attr_id: 6 viscera, error_value: 0.2595, correct_value: 
+attr_id: 3 height, error_value: 01.9, correct_value: 0.165
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 7389 F 0.6 0.48 0.165 1.1345 0.4535 0.2595 0.335 10 
+right_data: 6254 F 0.6 0.47 0.19 1.1345 0.492 0.2595 0.3375 10 
+prediction: -1
+label: 1
+attr_id: 6 viscera, error_value: 0.2595, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 3431 I 0.325 0.24 0.075 0.152 0.065 0.0305 0.045 6 
+right_data: 2042 I 0.325 0.24 0.07 0.152 0.0565 0.0305 0.054 8 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 3372 M 0.33 0.235 0.09 0.163 0.0615 0.034 0.055 10 
+right_data: 3326 M 0.345 0.265 0.09 0.163 0.0615 0.037 0.0485 10 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 3191 I 0.2 0.145 0.025 0.0345 0.011 0.0075 0.01 5 
+right_data: 2381 M 0.175 0.135 0.04 0.0305 0.011 0.0075 0.01 5 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 1635 F 0.575 0.47 0.155 1.116 0.509 0.238 0.34 10 
+right_data: 5850 F 0.61 0.475 0.16 1.1155 0.509 0.238 0.379 10 
+prediction: -1
+label: 1
+attr_id: 5 whucked, error_value: 0.509, correct_value: 
+attr_id: 6 viscera, error_value: 0.238, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 3903 I 0.16 0.12 0.02 0.018 0.0075 0.0045 0.005 4 
+right_data: 240 I 0.16 0.12 0.035 0.021 0.0075 0.0045 0.005 5 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 8246 I 0.41 0.305 0.1 0.2645 0.1 0.0655 0.085 r7 
+right_data: 7051 I 0.41 0.305 0.095 0.2625 0.1 0.0515 0.09 *** 
+prediction: -1
+label: 3
+attr_id: 8 rings, error_value: r7, correct_value: 
+attr_id: 8 rings, error_value: ***, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 4069 I 0.41 0.305 0.1 0.2645 0.1 0.0655 0.085 7 
+right_data: 2874 I 0.41 0.305 0.095 0.2625 0.1 0.0515 0.09 6 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 3937 F 0.475 0.4 0.115 0.541 0.186 0.1025 0.21 13 
+right_data: 3933 F 0.49 0.37 0.115 0.541 0.171 0.1175 0.185 11 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 3926 F 0.47 0.35 0.115 0.487 0.1955 0.127 0.155 8 
+right_data: 3386 F 0.475 0.35 0.115 0.487 0.194 0.1455 0.125 13 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 4093 F 0.625 0.49 0.19 1.7015 0.7465 0.4105 0.3855 11 
+right_data: 3504 F 0.615 0.49 0.19 1.1345 0.4695 0.257 0.348 11 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 2282 I 0.485 0.415 0.14 0.5705 0.25 0.134 0.185 8 
+right_data: 1589 I 0.515 0.39 0.125 0.5705 0.238 0.1265 0.185 8 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 2065 M 0.535 0.42 0.125 0.738 0.355 0.1895 0.1795 8 
+right_data: 1786 F 0.535 0.425 0.135 0.771 0.3765 0.1815 0.1795 8 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 2513 M 0.465 0.375 0.11 0.5 0.21 0.113 0.1505 8 
+right_data: 1854 I 0.495 0.38 0.145 0.5 0.205 0.148 0.1505 8 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 1410 F 0.66 0.515 0.17 1.337 0.615 0.3125 0.3575 10 
+right_data: 1718 F 0.65 0.495 0.155 1.337 0.615 0.3195 0.335 9 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 3072 F 0.655 0.455 0.17 1.2895 0.587 0.3165 0.3415 11 
+right_data: 493 F 0.655 0.51 0.155 1.2895 0.5345 0.2855 0.41 11 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 3302 F 0.66 0.525 0.19 1.67 0.6525 0.4875 0.49 11 
+right_data: 2806 F 0.66 0.525 0.2 1.463 0.6525 0.2995 0.422 11 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 1757 F 0.725 0.565 0.21 2.1425 1.03 0.487 0.503 14 
+right_data: 1412 F 0.67 0.53 0.225 1.5615 0.63 0.487 0.3725 11 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 3742 F 0.67 0.525 0.195 1.37 0.6065 0.2955 0.407 12 
+right_data: 2617 F 0.65 0.5 0.185 1.4415 0.741 0.2955 0.341 9 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 2493 F 0.475 0.38 0.145 0.57 0.167 0.118 0.187 11 
+right_data: 3442 F 0.465 0.355 0.115 0.4705 0.1955 0.118 0.126 7 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 5850 F 0.61 0.475 0.16 1.1155 0.509 0.238 0.379 10 
+right_data: 5812 F 0.575 0.47 0.1h55 1.116 0.509 0.238 0.34 10 
+prediction: -1
+label: -1
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 258 M 0.545 0.46 0.16 0.8975 0.341 0.1655 0.345 10 
+right_data: 141 F 0.565 0.445 0.155 0.826 0.341 0.2055 0.2475 10 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 2649 M 0.5 0.38 0.12 0.5765 0.273 0.135 0.145 9 
+right_data: 2097 M 0.5 0.39 0.145 0.651 0.273 0.132 0.22 11 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 2034 M 0.61 0.49 0.16 1.112 0.465 0.228 0.341 10 
+right_data: 1669 M 0.61 0.475 0.155 0.983 0.4565 0.228 0.266 10 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 2799 M 0.64 0.485 0.15 1.098 0.5195 0.222 0.3175 10 
+right_data: 3394 M 0.575 0.435 0.13 1.0105 0.368 0.222 0.32 10 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 2709 M 0.735 0.57 0.175 1.88 0.9095 0.387 0.488 11 
+right_data: 2084 M 0.685 0.55 0.2 1.7725 0.813 0.387 0.49 11 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 2383 I 0.525 0.43 0.15 0.7365 0.3225 0.161 0.215 11 
+right_data: 743 F 0.535 0.42 0.15 0.7365 0.2785 0.186 0.215 14 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 2042 I 0.325 0.24 0.07 0.152 0.0565 0.0305 0.054 8 
+right_data: 905 I 0.315 0.23 0.07 0.144 0.053 0.0305 0.04 8 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 6278 I 0.37 0.29 .01 0.25 0.1025 0.0505 0.085 10 
+right_data: 4199 I 0.38 0.275 .01 0.2255 0.08 0.049 0.085 10 
+prediction: -1
+label: 2
+attr_id: 3 height, error_value: .01, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 1995 I 0.29 0.21 0.065 0.097 0.0375 0.022 0.03 6 
+right_data: 2425 M 0.26 0.2 0.065 0.096 0.044 0.027 0.03 6 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 1060 I 0.25 0.18 0.065 0.0685 0.0245 0.0155 0.0225 5 
+right_data: 1213 I 0.25 0.185 0.065 0.0685 0.0295 0.014 0.0225 5 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 2458 I 0.25 0.185 0.065 0.071 0.027 0.0185 0.0225 5 
+right_data: 1213 I 0.25 0.185 0.065 0.0685 0.0295 0.014 0.0225 5 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 3473 I 0.165 0.12 0.035 0.021 0.0075 0.0045 0.014 3 
+right_data: 240 I 0.16 0.12 0.035 0.021 0.0075 0.0045 0.005 5 
+prediction: -1
+label: 1
+attr_id: 3 height, error_value: 0.035, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 3795 M 0.67 0.52 0.175 1.4755 0.6275 0.379 0.374 10 
+right_data: 3793 F 0.655 0.52 0.175 1.472 0.6275 0.27 0.45 13 
+prediction: -1
+label: 0
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 3907 M 0.245 0.18 0.065 0.0685 0.0245 0.0135 0.02 4 
+right_data: 1060 I 0.25 0.18 0.065 0.0685 0.0245 0.0155 0.0225 5 
+prediction: -1
+label: 1
+attr_id: 4 whole, error_value: 0.0685, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 6142 F 0.66 0.535 0.205 1.4415 0.5925 0.3555 0.49 10 
+right_data: 4020 M 0.66 0.515 0.155 1.4415 0.7055 0.3555 0.335 10 
+prediction: -1
+label: 1
+attr_id: 6 viscera, error_value: 0.3555, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 8197 M 0.66 0.515 0.155 1.4415 0.7055 0.2775 0.335 10 
+right_data: 1965 F 0.66 0.535 0.205 1.4415 0.5925 0.2775 0.49 10 
+prediction: -1
+label: 1
+attr_id: 6 viscera, error_value: 0.2775, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 8229 M 0.625 0.5 0.175 1.0565 0.4615 0.272 0.305 10 
+right_data: 1165 M 0.615 0.46 0.17 1.0565 0.4815 0.272 0.27 10 
+prediction: -1
+label: 1
+attr_id: 6 viscera, error_value: 0.272, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 1306 F 0.54 0.42 0.145 0.8655 0.4315 0.163 0.2175 10 
+right_data: 3035 M 0.54 0.42 0.19 0.8655 0.293 0.163 0.38 10 
+prediction: -1
+label: 1
+attr_id: 4 whole, error_value: 0.8655, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 1612 M 0.55 0.435 0.14 0.7625 0.327 0.1685 0.259 10 
+right_data: 3046 F 0.58 0.435 0.155 0.7625 0.425 0.1685 0.2425 10 
+prediction: -1
+label: 1
+attr_id: 4 whole, error_value: 0.7625, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 7856 F 0.605 0.49 0.15 1.1345 0.4305 0.2655 0.35 10 
+right_data: 3212 F 0.6 0.48 0.165 1.1345 0.4535 0.2655 0.335 10 
+prediction: -1
+label: 2
+attr_id: 6 viscera, error_value: 0.2655, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 8310 I 0.585 0.47 0.17 0.985 0.3695 0.2175 0.315 10 
+right_data: 5814 M 0.575 0.47 0.185 0.985 0.3745 0.2175 0.355 10 
+prediction: -1
+label: 1
+attr_id: 6 viscera, error_value: 0.2175, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 2698 M 0.66 0.515 0.165 1.4465 0.694 0.33 0.3755 10 
+right_data: 1817 F 0.675 0.53 0.175 1.4465 0.6775 0.33 0.389 10 
+prediction: -1
+label: 1
+attr_id: 6 viscera, error_value: 0.33, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 7856 F 0.605 0.49 0.15 1.1345 0.4305 0.2655 0.35 10 
+right_data: 1505 F 0.635 0.505 0.145 1.1345 0.505 0.2655 0.315 10 
+prediction: -1
+label: 1
+attr_id: 6 viscera, error_value: 0.2655, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 7912 M 0.615 0.505 0.165 1.167 0.4895 0.2485 0.345 10 
+right_data: 2944 F 0.63 0.485 0.185 1.167 0.548 0.2485 0.34 10 
+prediction: -1
+label: 1
+attr_id: 6 viscera, error_value: 0.2485, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 1505 F 0.635 0.505 0.145 1.1345 0.505 0.2655 0.315 10 
+right_data: 3212 F 0.6 0.48 0.165 1.1345 0.4535 0.2655 0.335 10 
+prediction: -1
+label: 1
+attr_id: 6 viscera, error_value: 0.2655, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 4388 F 0.49 0.365 0.45 0.6345 0.1995 0.1625 0.22 10 
+right_data: 2777 M 0.585 0.465 0.165 0.6345 0.4025 0.1625 0.274 10 
+prediction: -1
+label: 4
+attr_id: 3 height, error_value: 0.45, correct_value: 0.165
+attr_id: 4 whole, error_value: 0.6345, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 7935 I 0.52 0.41 0.14 0.699 0.3395 0.1595 0.1945 10 
+right_data: 287 M 0.53 0.435 0.155 0.699 0.288 0.1595 0.205 10 
+prediction: -1
+label: 1
+attr_id: 6 viscera, error_value: 0.1595, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 2777 M 0.585 0.465 0.165 0.6345 0.4025 0.1625 0.274 10 
+right_data: 211 F 0.49 0.365 0.145 0.6345 0.1995 0.1625 0.22 10 
+prediction: -1
+label: 1
+attr_id: 4 whole, error_value: 0.6345, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 2777 M 0.585 0.465 0.165 0.6345 0.4025 0.1625 0.274 10 
+right_data: 2133 F 0.52 0.41 0.125 0.6345 0.2945 0.1625 0.215 10 
+prediction: -1
+label: 2
+attr_id: 4 whole, error_value: 0.6345, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 6315 F 0.59 0.455 0.175 0.966 0.391 0.2145 0.31 10 
+right_data: 4174 M 0.59 0.44 0.135 0.966 0.439 0.2145 0.2605 10 
+prediction: -1
+label: 1
+attr_id: 6 viscera, error_value: 0.2145, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 211 F 0.49 0.365 0.145 0.6345 0.1995 0.1625 0.22 10 
+right_data: 2133 F 0.52 0.41 0.125 0.6345 0.2945 0.1625 0.215 10 
+prediction: -1
+label: 1
+attr_id: 4 whole, error_value: 0.6345, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 6044 I 0.52 0.385 0.115 0.8295 0.2555 0.156 0.143 10 
+right_data: 2029 F 0.57 0.435 0.15 0.8295 0.3875 0.156 0.245 10 
+prediction: -1
+label: 1
+attr_id: 4 whole, error_value: 0.8295, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 1637 M 0.575 0.47 0.158 0.985 0.3745 0.2175 0.355 10 
+right_data: 8310 I 0.585 0.47 0.17 0.985 0.3695 0.2175 0.315 10 
+prediction: -1
+label: 4
+attr_id: 3 height, error_value: 0.158, correct_value: 0.17
+attr_id: 6 viscera, error_value: 0.2175, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 5850 F 0.61 0.475 0.16 1.1155 0.509 0.238 0.379 10 
+right_data: 1804 F 0.615 0.455 0.145 1.1155 0.5045 0.238 0.315 10 
+prediction: -1
+label: 1
+attr_id: 5 whucked, error_value: 0.509, correct_value: 0.5045
+attr_id: 6 viscera, error_value: 0.238, correct_value: 
+
+Attributes: sex length diameter height whole whucked viscera shell rings 
+left_data: 685 M 0.51 0.4 0.14 0.6265 0.2455 0.1665 0.185 10 
+right_data: 556 I 0.5 0.385 0.15 0.6265 0.2605 0.1665 0.16 10 
+prediction: -1
+label: 1
+attr_id: 4 whole, error_value: 0.6265, correct_value: 
+
+

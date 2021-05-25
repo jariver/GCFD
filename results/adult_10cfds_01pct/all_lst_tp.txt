@@ -1,0 +1,414 @@
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 28153 31-50 Local-gov Prof-school Separated Prof-specialty Own-child Black Female 40 United-States LessThan50K 
+right_data: 32678 31-50 Local-gov Prof-school Separated Prof-specialty Unmarried White Female 40 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 43387 >50 Self-emp-inc Prof-school Married-civ-spouse Transport-moving Husband White Male 50 United-States MoreThan50K 
+right_data: 44714 >50 Private Prof-school Married-civ-spouse Transport-moving Husband Black Male 50 United-States MoreThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 4323 18-21 Without-pay HS-grad Never-married Craft-repair Own-child Black Male 40 United-States LessThan50K 
+right_data: 5515 22-30 Without-pay HS-grad Never-married Handlers-cleaners Own-child White Male 40 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 1519 18-21 Without-pay HS-grad Never-married Other-service Own-child White Male 10 United-States LessThan50K 
+right_data: 2269 18-21 Without-pay HS-grad Never-married Farming-fishing Own-child White Male 10 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 41442 >50 ***? 5th-6th Married-civ-spouse ? Husband White Male 40 United-States LessThan50K 
+right_data: 43687 >50 ***? Some-college Married-civ-spouse ? Husband White Male 40 United-States LessThan50K 
+prediction: -1
+label: 2
+attr_id: 1 workclass, error_value: ***?, correct_value: 
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 47593 >50 ***? 11th Married-civ-spouse ? Husband White Male 30 United-States LessThan50K 
+right_data: 48523 >50 ***? Bachelors Married-civ-spouse ? Husband White Male 30 United-States LessThan50K 
+prediction: -1
+label: 2
+attr_id: 1 workclass, error_value: ***?, correct_value: 
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 18609 31-50 State-gov 9th Married-civ-spouse Farming-fishing Husband White Male 40 United-States LessThan50K 
+right_data: 44044 >50 State-gov 9th Married-civ-spouse Farming-fishing Husband White Male 40 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 22358 31-50 State-gov 9th Married-civ-spouse Craft-repair Husband Black Male 40 United-States LessThan50K 
+right_data: 46605 >50 State-gov 9th Married-civ-spouse Craft-repair Husband White Male 40 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 41442 >50 ***? 5th-6th Married-civ-spouse ? Husband White Male 40 United-States LessThan50K 
+right_data: 48005 >50 ***? 5th-6th Married-civ-spouse ? Husband White Male 40 Hungary LessThan50K 
+prediction: -1
+label: 2
+attr_id: 1 workclass, error_value: ***?, correct_value: 
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 23392 31-50 State-gov Prof-school Divorced Prof-specialty Own-child Asian-Pac-Islander Female 40 Philippines LessThan50K 
+right_data: 30599 31-50 State-gov Prof-school Divorced Prof-specialty Unmarried White Female 40 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 4235 18-21 Private Some-college Never-married Protective-serv Not-in-family Black Male 40 United-States MoreThan50K 
+right_data: 95 <18 Private 11th Never-married Protective-serv Own-child White Female 40 United-States LessThan50K 
+prediction: -1
+label: 1
+attr_id: 7 sex, error_value: Male, correct_value: Female
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 39609 >50 Private HS-grad Married-civ-spouse Transport-moving Husband White Makle 40 United-States MoreThan50K 
+right_data: 42924 >50 Private HS-grad Married-civ-spouse Transport-moving Husband White ale 40 United-States LessThan50K 
+prediction: -1
+label: 3
+attr_id: 7 sex, error_value: Makle, correct_value: 
+attr_id: 7 sex, error_value: ale, correct_value: 
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 4572 18-21 Private HS-grad Never-married Handlers-cleaners Not-in-family White Male 40 United-States LessThan50xK 
+right_data: 4210 18-21 Private HS-grad Never-married Other-service Not-in-family White Female 40 United-States Lesshan50K 
+prediction: -1
+label: 3
+attr_id: 10 income, error_value: LessThan50xK, correct_value: 
+attr_id: 10 income, error_value: Lesshan50K, correct_value: 
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 8202 22-30 Private Bachelors Never-married Prof-specialty Not-in-family White Male 10 Hungary LessThan50K 
+right_data: 7221 22-30 Private Bachelors Never-married Prof-specialty Not-in-family Asian-Pac-Islander Male 55 Ireland LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 46469 >50 Private HS-grad Divorced Other-service Not-in-family White Female 79 United-States LessThan50K 
+right_data: 39648 >50 Self-emp-inc HS-grad Divorced Protective-serv Not-in-family White Male 81 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 46874 >50 State-gov Masters Married-civ-spouse Prof-specialty Husband White Maple 35 United-States MoreThan50K 
+right_data: 41353 >50 Private Some-college Married-civ-spouse Prof-specialty Wife White Fmale 24 United-States LessThan50K 
+prediction: -1
+label: 3
+attr_id: 7 sex, error_value: Maple, correct_value: 
+attr_id: 7 sex, error_value: Fmale, correct_value: 
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 43026 >50 Self-emp-not-inc 11th Widowed Other-service Unmarried White Female 65 Greece MoreThan50K 
+right_data: 38504 31-50 Private Bachelors Divorced Prof-specialty Unmarried White Female 36 Ireland LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 35881 31-50 Private HS-grad Divorced Other-service Unmarried Black Male 9 United-States LessThan50K 
+right_data: 27006 31-50 Private HS-grad Divorced Other-service Unmarried White Female 81 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 4249 18-21 Private HS-grad Never-married Other-service Own-child White Female 40 United-States eLssThan50K 
+right_data: 4210 18-21 Private HS-grad Never-married Other-service Not-in-family White Female 40 United-States Lesshan50K 
+prediction: -1
+label: 3
+attr_id: 10 income, error_value: eLssThan50K, correct_value: 
+attr_id: 10 income, error_value: Lesshan50K, correct_value: 
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 36969 31-50 Private Some-college Never-married Exec-managerial Not-in-family White Female 40 Ireland MoreThan50K 
+right_data: 18036 31-50 Private Some-college Never-married Machine-op-inspct Other-relative White Female 40 Holand-Netherlands LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 36969 31-50 Private Some-college Never-married Exec-managerial Not-in-family White Female 40 Ireland MoreThan50K 
+right_data: 28266 31-50 Private Some-college Married-civ-spouse Other-service Wife White Female 40 Scotland LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 14288 22-30 Federal-gov Some-college Never-married Other-service Not-in-family White Female 40 United-States MoreThan50K 
+right_data: 3256 18-21 Federal-gov HS-grad Never-married Adm-clerical Own-child White Female 40 United-States essThan50K 
+prediction: -1
+label: 1
+attr_id: 10 income, error_value: essThan50K, correct_value: MoreThan50K
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 10951 22-30 Private Bachelors Married-civ-spouse Prof-specialty Wife White Female 90 United-States MoreThan50K 
+right_data: 9758 22-30 Private Bachelors Married-civ-spouse Prof-specialty Husband White Male 90 United-States MoreThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 13951 22-30 Private HS-grad Married-civ-spouse Handlers-cleaners Wife White Female 40 Mexico MoreThan50K 
+right_data: 12763 22-30 Private Some-college Married-civ-spouse Handlers-cleaners Husband White Matle 40 United-States MoreThan50K 
+prediction: -1
+label: 1
+attr_id: 7 sex, error_value: Matle, correct_value: Female
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 4722 22-30 Private HS-grad Never-married Other-service Not-in-family White Male 60 United-States MoreThan50K 
+right_data: 4720 22-30 Private HS-grad Never-married Adm-clerical Own-child White Male 18-21 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 38848 31-50 Local-gov Prof-school Married-civ-spouse Adm-clerical Husband Asian-Pac-Islander Male 40 Laos MoreThan50K 
+right_data: 37467 31-50 Private Some-college Married-civ-spouse Adm-clerical Husband Asian-Pac-Islander Male 40 Outlying-US(Guam-USVI-etc) MoreThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 36429 31-50 Private HS-grad Married-civ-spouse Adm-clerical Wife White Female 40 Hungary LessThan50K 
+right_data: 17209 31-50 Private Some-college Never-married Adm-clerical Unmarried Asian-Pac-Islander Female 40 China LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 2389 18-21 Private HS-grad Never-married Adm-clerical Own-child Other Female 25 Puerto-Rico LessThan50K 
+right_data: 226 <18 Private 11th Never-married Adm-clerical Own-child Asian-Pac-Islander Female 24 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 45323 >50 Private 5th-6th Married-civ-spouse Machine-op-inspct Wife White Female 37 Honduras LessThan50K 
+right_data: 43058 >50 Private 5th-6th Married-civ-spouse Craft-repair Husband Black Male 40 Trinadad&Tobago LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 45323 >50 Private 5th-6th Married-civ-spouse Machine-op-inspct Wife White Female 37 Honduras LessThan50K 
+right_data: 45027 >50 Private 11th Married-civ-spouse Machine-op-inspct Wife Asian-Pac-Islander Female 30 Hong LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 48584 >50 Private 9th Married-civ-spouse Priv-house-serv Wife Black Feale 10 United-States LessThan50K 
+right_data: 43234 >50 Private HS-grad Married-civ-spouse Priv-house-serv Husband White Male 30 United-States LessThan50K 
+prediction: -1
+label: 1
+attr_id: 7 sex, error_value: Feale, correct_value: Male
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 14934 22-30 Federal-gov Some-college Married-civ-spouse Adm-clerical Own-child White Male 40 United-States LessThan50K 
+right_data: 10093 22-30 Federal-gov Some-college Divorced Adm-clerical Own-child White Male 24 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 14934 22-30 Federal-gov Some-college Married-civ-spouse Adm-clerical Own-child White Male 40 United-States LessThan50K 
+right_data: 14363 22-30 Federal-gov Some-college Married-spouse-absent Adm-clerical Own-child White Female 40 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 29210 31-50 Private Some-college Married-civ-spouse Exec-managerial Husband White aMle 60 United-States MoreThan50K 
+right_data: 15872 31-50 Local-gov Some-college Married-civ-spouse Protective-serv Husband Black aMle 50 United-States MoreThan50K 
+prediction: -1
+label: 2
+attr_id: 7 sex, error_value: aMle, correct_value: 
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 24707 31-50 Private Some-college Divorced Adm-clerical Unmarried White Female 25 United-States MoreThan50K 
+right_data: 619 18-21 Private 11th Never-married Adm-clerical Unmarried White Male 40 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 521 <18 Federal-gov 11th Never-married Adm-clerical Not-in-family Black Female 40 United-States LessThan50K 
+right_data: 2313 18-21 State-gov HS-grad Never-married Adm-clerical Not-in-family White Female 18-21 United-States LessThan0K 
+prediction: -1
+label: 1
+attr_id: 10 income, error_value: LessThan0K, correct_value: LessThan50K
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 6334 22-30 Private Bachelors Divorced Adm-clerical Not-in-family White Female 70 United-States MoreThan50K 
+right_data: 521 <18 Federal-gov 11th Never-married Adm-clerical Not-in-family Black Female 40 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 48219 >50 Self-emp-not-inc Some-college Married-civ-spouse Prof-specialty Wife White Female 1 United-States LessThan50K 
+right_data: 43899 >50 State-gov Doctorate Married-civ-spouse Prof-specialty Husband White Male 1 United-States MoreThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 48138 >50 Private Some-college Married-civ-spouse Adm-clerical Husband White Malde 15 United-States LessThan50K 
+right_data: 39562 >50 Private Some-college Married-civ-spouse Adm-clerical Wife White Femae 35 United-States LessThan50K 
+prediction: -1
+label: 3
+attr_id: 7 sex, error_value: Malde, correct_value: 
+attr_id: 7 sex, error_value: Femae, correct_value: 
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 15513 22-30 Private Some-college Married-civ-spouse Adm-clerical Wife White emale 40 United-States LessThan50K 
+right_data: 13445 22-30 Private Some-college Married-civ-spouse Tech-support Wife White Femuale 18-21 United-States LessThan50K 
+prediction: -1
+label: 3
+attr_id: 7 sex, error_value: emale, correct_value: 
+attr_id: 7 sex, error_value: Femuale, correct_value: 
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 35927 31-50 Private HS-grad Divorced Adm-clerical Unmarried White Male 40 Honduras LessThan50K 
+right_data: 18913 31-50 Self-emp-inc HS-grad Married-civ-spouse Exec-managerial Husband Asian-Pac-Islander Male 84 Taiwan MoreThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 3675 18-21 Private HS-grad Widowed Craft-repair Own-child White Male 40 United-States LessThan50K 
+right_data: 1371 18-21 Private HS-grad Married-spouse-absent Other-service Own-child Black Male 40 Jamaica LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 4638 18-21 ? Some-college Never-married ? Own-child White Male 40 United-States LesshTan50K 
+right_data: 4572 18-21 Private HS-grad Never-married Handlers-cleaners Not-in-family White Male 40 United-States LessThan50xK 
+prediction: -1
+label: 3
+attr_id: 10 income, error_value: LesshTan50K, correct_value: 
+attr_id: 10 income, error_value: LessThan50xK, correct_value: 
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 6258 22-30 Private Assoc-voc Married-civ-spouse Tech-support Husband White Male 40 United-States MoreThan50K 
+right_data: 5024 22-30 Private HS-grad Married-civ-spouse Tech-support Husband White Male 40 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 15917 31-50 Private HS-grad Married-civ-spouse Transport-moving Husband White Male 73 United-States LessThan50K 
+right_data: 15695 22-30 Private HS-grad Married-civ-spouse Transport-moving Husband White Male 73 United-States MoreThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 4572 18-21 Private HS-grad Never-married Handlers-cleaners Not-in-family White Male 40 United-States LessThan50xK 
+right_data: 4089 18-21 Private Some-college Never-married Other-service Own-child White Male 40 United-States LebssThan50K 
+prediction: -1
+label: 3
+attr_id: 10 income, error_value: LessThan50xK, correct_value: 
+attr_id: 10 income, error_value: LebssThan50K, correct_value: 
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 4727 22-30 Private HS-grad Never-married Other-service Not-in-family White Female 45 United-States LessThan50K 
+right_data: 4720 22-30 Private HS-grad Never-married Adm-clerical Own-child White Male 18-21 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 15513 22-30 Private Some-college Married-civ-spouse Adm-clerical Wife White emale 40 United-States LessThan50K 
+right_data: 15290 22-30 Private Bachelors Married-civ-spouse Adm-clerical Wife White eFmale 40 United-States LessThan50K 
+prediction: -1
+label: 3
+attr_id: 7 sex, error_value: emale, correct_value: 
+attr_id: 7 sex, error_value: eFmale, correct_value: 
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 39157 >50 ***? HS-grad Widowed ? Not-in-family Amer-Indian-Eskimo Female 18-21 United-States LessThan50K 
+right_data: 1829 18-21 Federal-gov HS-grad Never-married Adm-clerical Unmarried Black Female 40 United-States LessThan50K 
+prediction: -1
+label: 1
+attr_id: 1 workclass, error_value: ***?, correct_value: Federal-gov
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 4775 22-30 Private HS-grad Never-married Handlers-cleaners Unmarried Other Male 35 United-States LessThan50K 
+right_data: 4768 22-30 State-gov Some-college Never-married Other-service Not-in-family Amer-Indian-Eskimo Female 60 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 4775 22-30 Private HS-grad Never-married Handlers-cleaners Unmarried Other Male 35 United-States LessThan50K 
+right_data: 4735 22-30 Private Some-college Never-married Machine-op-inspct Own-child Asian-Pac-Islander Male 35 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 4775 22-30 Private HS-grad Never-married Handlers-cleaners Unmarried Other Male 35 United-States LessThan50K 
+right_data: 4720 22-30 Private HS-grad Never-married Adm-clerical Own-child White Male 18-21 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 41161 >50 Private HS-grad Divorced Machine-op-inspct Not-in-family White Female 40 Scotland LessThan50K 
+right_data: 39061 >50 Private HS-grad Widowed Exec-managerial Not-in-family White Female 40 Yugoslavia LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 9537 22-30 Private Bachelors Widowed Exec-managerial Not-in-family White Female 40 United-States LessThan50K 
+right_data: 3229 18-21 Private Some-college Separated Craft-repair Not-in-family White Male 40 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 9537 22-30 Private Bachelors Widowed Exec-managerial Not-in-family White Female 40 United-States LessThan50K 
+right_data: 3133 18-21 Private 10th Married-spouse-absent Handlers-cleaners Not-in-family White Male 40 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 46874 >50 State-gov Masters Married-civ-spouse Prof-specialty Husband White Maple 35 United-States MoreThan50K 
+right_data: 39066 >50 State-gov Bachelors Married-civ-spouse Prof-specialty Husband Black Male 40 United-States LessThan50K 
+prediction: -1
+label: 1
+attr_id: 7 sex, error_value: Maple, correct_value: Male
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 45555 >50 Self-emp-not-inc Assoc-acdm Married-spouse-absent Exec-managerial Not-in-family White Female 90 United-States LessThan50K 
+right_data: 43198 >50 Private Some-college Married-spouse-absent Sales Own-child Asian-Pac-Islander Female 90 United-States MoreThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 47423 >50 Local-gov Masters Never-married Exec-managerial Other-relative White Female 72 United-States MoreThan50K 
+right_data: 40068 >50 Local-gov Some-college Married-civ-spouse Adm-clerical Wife White Female 72 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 45345 >50 State-gov HS-grad Married-spouse-absent Transport-moving Not-in-family White Female 60 United-States LessThan50K 
+right_data: 39288 >50 State-gov 7th-8th Married-civ-spouse Transport-moving Husband White Male 40 United-States LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 39871 >50 Local-gov HS-grad Divorced Protective-serv Unmarried White Male 52 United-States LessThan50K 
+right_data: 39072 >50 State-gov HS-grad Married-civ-spouse Craft-repair Husband White Male 52 United-States MoreThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 39224 >50 Self-emp-not-inc Some-college Married-civ-spouse Other-service Husband White Male 99 United-States LessThan50K 
+right_data: 39197 >50 Private Assoc-voc Married-civ-spouse Transport-moving Husband White Male 99 United-States MoreThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 13139 22-30 Private Some-college Never-married Protective-serv Own-child White Male 40 Honduras LessThan50K 
+right_data: 5413 22-30 Self-emp-inc Bachelors Never-married Adm-clerical Own-child White Male 40 South LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 13139 22-30 Private Some-college Never-married Protective-serv Own-child White Male 40 Honduras LessThan50K 
+right_data: 3730 18-21 State-gov Some-college Never-married Prof-specialty Own-child White Female 40 Ecuador LessThan50K 
+prediction: -1
+label: 0
+
+Attributes: age workclass education maritalstatus occupation relationship race sex hoursperweek country income 
+left_data: 13139 22-30 Private Some-college Never-married Protective-serv Own-child White Male 40 Honduras LessThan50K 
+right_data: 3553 18-21 ? Some-college Never-married ? Own-child White Female 15 France LessThan50K 
+prediction: -1
+label: 0
+
+

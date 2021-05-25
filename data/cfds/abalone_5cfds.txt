@@ -1,0 +1,5 @@
+(whole,viscera,rings=10)=>height
+(whucked,whole,height,diameter)=>rings
+(shell,whole,length,rings=9)=>height
+(viscera,whucked,whole,sex=M)=>shell
+(sex,whole,whucked,shell)=>height

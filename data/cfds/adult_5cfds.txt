@@ -1,0 +1,5 @@
+(maritalstatus=Never-married,education=HS-grad,age=18-21)=>income=LessThan50K
+(education=Some-college,relationship=Husband)=>sex=Male
+(relationship=Husband,income=MoreThan50K)=>sex=Male
+(relationship=Husband,age=>50)=>marital-status=Married-civ-spouse
+(country=United-States,relationship=Wife,age=31-50)=>sex=Female

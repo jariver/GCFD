@@ -1,0 +1,18 @@
+16
+0 sex 
+0 length 
+0 diameter 
+0 height 
+0 whole 
+0 whucked 
+0 viscera 
+0 shell 
+0 rings 
+1 sex I
+1 sex F
+1 sex M
+1 rings 11
+1 rings 8
+1 rings 10
+1 rings 9
+

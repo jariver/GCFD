@@ -1,0 +1,62 @@
+Thu Feb  4 05:43:59 2021
+rule_repository_top_k.size(): 30
+(a,b,)=>f | whole_supp: 245148 | whole_vio: 0 | whole_conf: 1.000000 | Asupp: 10
+(a,b,)=>e | whole_supp: 245148 | whole_vio: 0 | whole_conf: 1.000000 | Asupp: 10
+(a,b,)=>d | whole_supp: 245148 | whole_vio: 0 | whole_conf: 1.000000 | Asupp: 10
+(d,g,)=>b | whole_supp: 245148 | whole_vio: 2 | whole_conf: 0.999992 | Asupp: 10
+(d,g,)=>f | whole_supp: 245148 | whole_vio: 6 | whole_conf: 0.999976 | Asupp: 10
+(d,g,)=>e | whole_supp: 245148 | whole_vio: 6 | whole_conf: 0.999976 | Asupp: 10
+(e,g,)=>f | whole_supp: 245148 | whole_vio: 16 | whole_conf: 0.999935 | Asupp: 10
+(e,g,)=>b | whole_supp: 245148 | whole_vio: 18 | whole_conf: 0.999927 | Asupp: 10
+(e,g,)=>d | whole_supp: 245148 | whole_vio: 18 | whole_conf: 0.999927 | Asupp: 10
+(f,g,)=>e | whole_supp: 245148 | whole_vio: 20 | whole_conf: 0.999918 | Asupp: 10
+(f,g,)=>b | whole_supp: 245148 | whole_vio: 22 | whole_conf: 0.999910 | Asupp: 10
+(f,g,)=>d | whole_supp: 245148 | whole_vio: 22 | whole_conf: 0.999910 | Asupp: 10
+(c,g,)=>b | whole_supp: 245148 | whole_vio: 28 | whole_conf: 0.999886 | Asupp: 10
+(c,g,)=>e | whole_supp: 245148 | whole_vio: 28 | whole_conf: 0.999886 | Asupp: 10
+(c,g,)=>d | whole_supp: 245148 | whole_vio: 28 | whole_conf: 0.999886 | Asupp: 10
+(c,g,)=>f | whole_supp: 245148 | whole_vio: 28 | whole_conf: 0.999886 | Asupp: 10
+(b,g,)=>d | whole_supp: 245148 | whole_vio: 1092 | whole_conf: 0.995546 | Asupp: 10
+(b,g,)=>e | whole_supp: 245148 | whole_vio: 1096 | whole_conf: 0.995529 | Asupp: 10
+(b,g,)=>f | whole_supp: 245148 | whole_vio: 1096 | whole_conf: 0.995529 | Asupp: 10
+(d,g,)=>a | whole_supp: 245148 | whole_vio: 6 | whole_conf: 0.999976 | Asupp: 10
+(e,g,)=>a | whole_supp: 245148 | whole_vio: 18 | whole_conf: 0.999927 | Asupp: 10
+(f,g,)=>a | whole_supp: 245148 | whole_vio: 22 | whole_conf: 0.999910 | Asupp: 10
+(c,g,)=>a | whole_supp: 245148 | whole_vio: 28 | whole_conf: 0.999886 | Asupp: 10
+(a,g,)=>b | whole_supp: 245148 | whole_vio: 650 | whole_conf: 0.997349 | Asupp: 10
+(a,g,)=>d | whole_supp: 245148 | whole_vio: 650 | whole_conf: 0.997349 | Asupp: 10
+(a,g,)=>f | whole_supp: 245148 | whole_vio: 650 | whole_conf: 0.997349 | Asupp: 10
+(a,g,)=>e | whole_supp: 245148 | whole_vio: 650 | whole_conf: 0.997349 | Asupp: 10
+(b,g,)=>a | whole_supp: 245148 | whole_vio: 1096 | whole_conf: 0.995529 | Asupp: 10
+(b,d,e,)=>f | whole_supp: 245148 | whole_vio: 754 | whole_conf: 0.996924 | Asupp: 10
+(b,c,e,)=>f | whole_supp: 245148 | whole_vio: 852 | whole_conf: 0.996525 | Asupp: 10
+
+rule_repository.size(): 26
+(b,c,e,)=>d | whole_supp: 245148 | whole_vio: 860 | whole_conf: 0.996492 | Asupp: 10
+(b,e,f,)=>c | whole_supp: 245148 | whole_vio: 894 | whole_conf: 0.996353 | Asupp: 10
+(b,e,f,)=>d | whole_supp: 245148 | whole_vio: 894 | whole_conf: 0.996353 | Asupp: 10
+(b,d,f,)=>c | whole_supp: 245148 | whole_vio: 954 | whole_conf: 0.996108 | Asupp: 10
+(b,d,f,)=>e | whole_supp: 245148 | whole_vio: 956 | whole_conf: 0.996100 | Asupp: 10
+(a,c,f,)=>e | whole_supp: 245148 | whole_vio: 80 | whole_conf: 0.999674 | Asupp: 10
+(a,c,f,)=>d | whole_supp: 245148 | whole_vio: 84 | whole_conf: 0.999657 | Asupp: 10
+(a,d,e,)=>f | whole_supp: 245148 | whole_vio: 84 | whole_conf: 0.999657 | Asupp: 10
+(a,c,f,)=>b | whole_supp: 245148 | whole_vio: 84 | whole_conf: 0.999657 | Asupp: 10
+(a,d,e,)=>b | whole_supp: 245148 | whole_vio: 86 | whole_conf: 0.999649 | Asupp: 10
+(a,c,e,)=>f | whole_supp: 245148 | whole_vio: 144 | whole_conf: 0.999413 | Asupp: 10
+(a,c,e,)=>d | whole_supp: 245148 | whole_vio: 146 | whole_conf: 0.999404 | Asupp: 10
+(a,c,e,)=>b | whole_supp: 245148 | whole_vio: 148 | whole_conf: 0.999396 | Asupp: 10
+(a,d,f,)=>e | whole_supp: 245148 | whole_vio: 148 | whole_conf: 0.999396 | Asupp: 10
+(a,d,f,)=>b | whole_supp: 245148 | whole_vio: 150 | whole_conf: 0.999388 | Asupp: 10
+(a,c,d,)=>e | whole_supp: 245148 | whole_vio: 168 | whole_conf: 0.999315 | Asupp: 10
+(a,c,d,)=>f | whole_supp: 245148 | whole_vio: 170 | whole_conf: 0.999307 | Asupp: 10
+(a,e,f,)=>d | whole_supp: 245148 | whole_vio: 186 | whole_conf: 0.999241 | Asupp: 10
+(a,e,f,)=>b | whole_supp: 245148 | whole_vio: 188 | whole_conf: 0.999233 | Asupp: 10
+(b,d,e,)=>a | whole_supp: 245148 | whole_vio: 808 | whole_conf: 0.996704 | Asupp: 10
+(b,d,e,)=>g | whole_supp: 245148 | whole_vio: 808 | whole_conf: 0.996704 | Asupp: 10
+(b,c,e,)=>a | whole_supp: 245148 | whole_vio: 910 | whole_conf: 0.996288 | Asupp: 10
+(b,e,f,)=>a | whole_supp: 245148 | whole_vio: 950 | whole_conf: 0.996125 | Asupp: 10
+(b,d,f,)=>a | whole_supp: 245148 | whole_vio: 1010 | whole_conf: 0.995880 | Asupp: 10
+(a,d,f,)=>g | whole_supp: 245148 | whole_vio: 150 | whole_conf: 0.999388 | Asupp: 10
+(a,e,f,)=>g | whole_supp: 245148 | whole_vio: 188 | whole_conf: 0.999233 | Asupp: 10
+
+

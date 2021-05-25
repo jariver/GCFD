@@ -1,0 +1,10 @@
+(season,position,surname,stadium=King_Power_Stadium)=>team
+(city,birthplace,season=2013)=>position
+(position,surname,city=Solna)=>season
+(surname,birthplace,season)=>position
+(surname,city,season=2013)=>position
+(surname,position,city,season)=>name
+(name,season)=>position
+(name,season)=>birthplace
+(city,season=2015)=>team
+(name,season)=>surname

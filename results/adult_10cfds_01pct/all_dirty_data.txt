@@ -1,0 +1,1801 @@
+370 >50          Never-worked 10th         Never-married            ?            Own-child    White        Male         30           United-States            LessThan50K  
+370 <18          Never-worked 10th         Never-married            ?            Own-child    White        Male         30           United-States            LessThan50K  
+error_attr: age, error_value: >50
+
+711 18-21        Private      Some-college Never-married            Other-service            Own-child    White        Male         16           Canada       LessTha5n0K  
+711 18-21        Private      Some-college Never-married            Other-service            Own-child    White        Male         16           Canada       LessThan50K  
+error_attr: income, error_value: LessTha5n0K
+
+773 18-21        Private      HS-grad      Never-married            Sales        Own-child    White        Female       18-21        United-States            LessThan05K  
+773 18-21        Private      HS-grad      Never-married            Sales        Own-child    White        Female       18-21        United-States            LessThan50K  
+error_attr: income, error_value: LessThan05K
+
+786 18-21        ?            HS-grad      Never-married            ?            Own-child    White        Female       3            United-States            LessThan5n0K 
+786 18-21        ?            HS-grad      Never-married            ?            Own-child    White        Female       3            United-States            LessThan50K  
+error_attr: income, error_value: LessThan5n0K
+
+867 18-21        Private      HS-grad      Never-married            Other-service            Own-child    White        Female       16           United-States            LessThna50K  
+867 18-21        Private      HS-grad      Never-married            Other-service            Own-child    White        Female       16           United-States            LessThan50K  
+error_attr: income, error_value: LessThna50K
+
+869 18-21        Private      Some-college Never-married            Other-service            Own-child    White        Male         30           United-States            LessThasn50K 
+869 18-21        Private      Some-college Never-married            Other-service            Own-child    White        Male         30           United-States            LessThan50K  
+error_attr: income, error_value: LessThasn50K
+
+949 18-21        ?            HS-grad      Never-married            ?            Own-child    White        Male         10           United-States            LessTha50K   
+949 18-21        ?            HS-grad      Never-married            ?            Own-child    White        Male         10           United-States            LessThan50K  
+error_attr: income, error_value: LessTha50K
+
+993 >50          Never-worked 10th         Never-married            ?            Own-child    White        Male         40           United-States            LessThan50K  
+993 18-21        Never-worked 10th         Never-married            ?            Own-child    White        Male         40           United-States            LessThan50K  
+error_attr: age, error_value: >50
+
+1027 18-21        Private      Some-college Never-married            Craft-repair Not-in-family            White        Male         30           United-States            LesTshan50K  
+1027 18-21        Private      Some-college Never-married            Craft-repair Not-in-family            White        Male         30           United-States            LessThan50K  
+error_attr: income, error_value: LesTshan50K
+
+1028 18-21        Private      HS-grad      Never-married            Adm-clerical Own-child    White        Male         18-21        United-States            LuessThan50K 
+1028 18-21        Private      HS-grad      Never-married            Adm-clerical Own-child    White        Male         18-21        United-States            LessThan50K  
+error_attr: income, error_value: LuessThan50K
+
+1043 18-21        Private      HS-grad      Never-married            Sales        Not-in-family            White        Male         30           United-States            essThan50K   
+1043 18-21        Private      HS-grad      Never-married            Sales        Not-in-family            White        Male         30           United-States            LessThan50K  
+error_attr: income, error_value: essThan50K
+
+1081 18-21        Private      HS-grad      Never-married            Machine-op-inspct        Not-in-family            White        Female       30           United-States            LessThan50K***           
+1081 18-21        Private      HS-grad      Never-married            Machine-op-inspct        Not-in-family            White        Female       30           United-States            LessThan50K  
+error_attr: income, error_value: LessThan50K***
+
+1112 18-21        Private      HS-grad      Never-married            Adm-clerical Own-child    White        Female       18-21        United-States            LesThan50K   
+1112 18-21        Private      HS-grad      Never-married            Adm-clerical Own-child    White        Female       18-21        United-States            LessThan50K  
+error_attr: income, error_value: LesThan50K
+
+1215 18-21        Private      HS-grad      Never-married            Craft-repair Own-child    White        Male         25           United-States            LessThn50K   
+1215 18-21        Private      HS-grad      Never-married            Craft-repair Own-child    White        Male         25           United-States            LessThan50K  
+error_attr: income, error_value: LessThn50K
+
+1242 >50          Never-worked 11th         Never-married            ?            Own-child    White        Female       10           United-States            LessThan50K  
+1242 18-21        Never-worked 11th         Never-married            ?            Own-child    White        Female       10           United-States            LessThan50K  
+error_attr: age, error_value: >50
+
+1354 18-21        Private      HS-grad      Never-married            Handlers-cleaners        Own-child    White        Male         25           United-States            LessThan5K   
+1354 18-21        Private      HS-grad      Never-married            Handlers-cleaners        Own-child    White        Male         25           United-States            LessThan50K  
+error_attr: income, error_value: LessThan5K
+
+1438 18-21        Self-emp-inc HS-grad      Never-married            Transport-moving         Own-child    White        Male         60           United-States            LesshTan50K  
+1438 18-21        Self-emp-inc HS-grad      Never-married            Transport-moving         Own-child    White        Male         60           United-States            LessThan50K  
+error_attr: income, error_value: LesshTan50K
+
+1513 18-21        Private      HS-grad      Never-married            Prof-specialty           Own-child    White        Female       18-21        United-States            MoreThan50K  
+1513 18-21        Private      Some-college Never-married            Prof-specialty           Own-child    White        Female       18-21        United-States            MoreThan50K  
+error_attr: education, error_value: HS-grad
+
+1578 18-21        Private      HS-grad      Never-married            Craft-repair Own-child    White        Male         40           United-States            LessThany50K 
+1578 18-21        Private      HS-grad      Never-married            Craft-repair Own-child    White        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: LessThany50K
+
+1706 18-21        Private      Some-college Never-married            Adm-clerical Own-child    White        Male         30           United-States            essThan50K   
+1706 18-21        Private      Some-college Never-married            Adm-clerical Own-child    White        Male         30           United-States            LessThan50K  
+error_attr: income, error_value: essThan50K
+
+1748 18-21        Private      HS-grad      Never-married            Handlers-cleaners        Own-child    White        Male         40           United-States            LessThan5t0K 
+1748 18-21        Private      HS-grad      Never-married            Handlers-cleaners        Own-child    White        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: LessThan5t0K
+
+1757 18-21        Private      Some-college Never-married            Machine-op-inspct        Own-child    White        Male         40           United-States            LessThan5K0  
+1757 18-21        Private      Some-college Never-married            Machine-op-inspct        Own-child    White        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: LessThan5K0
+
+1822 18-21        Self-emp-not-inc         Some-college Never-married            Craft-repair Own-child    White        Male         18-21        United-States            LessThan0K   
+1822 18-21        Self-emp-not-inc         Some-college Never-married            Craft-repair Own-child    White        Male         18-21        United-States            LessThan50K  
+error_attr: income, error_value: LessThan0K
+
+1836 18-21        Private      Some-college Never-married            Handlers-cleaners        Own-child    White        Male         18-21        United-States            LessThan0K   
+1836 18-21        Private      Some-college Never-married            Handlers-cleaners        Own-child    White        Male         18-21        United-States            LessThan50K  
+error_attr: income, error_value: LessThan0K
+
+1844 18-21        Private      HS-grad      Never-married            Handlers-cleaners        Own-child    White        Male         30           United-States            LessTan50K   
+1844 18-21        Private      HS-grad      Never-married            Handlers-cleaners        Own-child    White        Male         30           United-States            LessThan50K  
+error_attr: income, error_value: LessTan50K
+
+1886 18-21        State-gov    Some-college Never-married            Adm-clerical Own-child    White        Male         15           United-States            LessThan50nK 
+1886 18-21        State-gov    Some-college Never-married            Adm-clerical Own-child    White        Male         15           United-States            LessThan50K  
+error_attr: income, error_value: LessThan50nK
+
+1915 18-21        Local-gov    HS-grad      Never-married            Craft-repair Own-child    White        Male         40           United-States            LessTahn50K  
+1915 18-21        Local-gov    HS-grad      Never-married            Craft-repair Own-child    White        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: LessTahn50K
+
+1976 18-21        Private      HS-grad      Never-married            Other-service            Not-in-family            White        Male         60           United-States            MoreThan50K  
+1976 18-21        Private      7th-8th      Never-married            Other-service            Not-in-family            White        Male         60           United-States            MoreThan50K  
+error_attr: education, error_value: HS-grad
+
+2110 18-21        Self-emp-not-inc         Some-college Never-married            Transport-moving         Own-child    White        Male         30           United-States            LesrsThan50K 
+2110 18-21        Self-emp-not-inc         Some-college Never-married            Transport-moving         Own-child    White        Male         30           United-States            LessThan50K  
+error_attr: income, error_value: LesrsThan50K
+
+2123 18-21        Private      HS-grad      Never-married            Sales        Not-in-family            White        Male         50           United-States            LessThan05K  
+2123 18-21        Private      HS-grad      Never-married            Sales        Not-in-family            White        Male         50           United-States            LessThan50K  
+error_attr: income, error_value: LessThan05K
+
+2158 18-21        Private      HS-grad      Never-married            Other-service            Own-child    White        Female       15           United-States            LsesThan50K  
+2158 18-21        Private      HS-grad      Never-married            Other-service            Own-child    White        Female       15           United-States            LessThan50K  
+error_attr: income, error_value: LsesThan50K
+
+2170 18-21        Private      Some-college Never-married            Handlers-cleaners        Own-child    White        Male         18-21        United-States            LessThano50K 
+2170 18-21        Private      Some-college Never-married            Handlers-cleaners        Own-child    White        Male         18-21        United-States            LessThan50K  
+error_attr: income, error_value: LessThano50K
+
+2237 18-21        Private      HS-grad      Never-married            Machine-op-inspct        Other-relative           White        Male         40           United-States            LessThanp50K 
+2237 18-21        Private      HS-grad      Never-married            Machine-op-inspct        Other-relative           White        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: LessThanp50K
+
+2238 18-21        Private      HS-grad      Never-married            Other-service            Own-child    White        Male         15           United-States            LessTan50K   
+2238 18-21        Private      HS-grad      Never-married            Other-service            Own-child    White        Male         15           United-States            LessThan50K  
+error_attr: income, error_value: LessTan50K
+
+2293 18-21        Private      HS-grad      Never-married            Handlers-cleaners        Own-child    White        Male         15           United-States            LessThan50K***           
+2293 18-21        Private      HS-grad      Never-married            Handlers-cleaners        Own-child    White        Male         15           United-States            LessThan50K  
+error_attr: income, error_value: LessThan50K***
+
+2313 18-21        State-gov    HS-grad      Never-married            Adm-clerical Not-in-family            White        Female       18-21        United-States            LessThan0K   
+2313 18-21        State-gov    HS-grad      Never-married            Adm-clerical Not-in-family            White        Female       18-21        United-States            LessThan50K  
+error_attr: income, error_value: LessThan0K
+
+2325 18-21        Private      HS-grad      Never-married            Sales        Not-in-family            White        Male         40           United-States            LessThan5K0  
+2325 18-21        Private      HS-grad      Never-married            Sales        Not-in-family            White        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: LessThan5K0
+
+2355 18-21        Private      Some-college Never-married            Other-service            Own-child    White        Male         18-21        United-States            LessThan5K0  
+2355 18-21        Private      Some-college Never-married            Other-service            Own-child    White        Male         18-21        United-States            LessThan50K  
+error_attr: income, error_value: LessThan5K0
+
+2392 18-21        Private      HS-grad      Never-married            Sales        Own-child    White        Female       35           United-States            LessThan05K  
+2392 18-21        Private      HS-grad      Never-married            Sales        Own-child    White        Female       35           United-States            LessThan50K  
+error_attr: income, error_value: LessThan05K
+
+2523 18-21        ?            Some-college Never-married            ?            Own-child    White        Male         45           United-States            LesTshan50K  
+2523 18-21        ?            Some-college Never-married            ?            Own-child    White        Male         45           United-States            LessThan50K  
+error_attr: income, error_value: LesTshan50K
+
+2536 18-21        Private      HS-grad      Never-married            Adm-clerical Other-relative           White        Male         30           United-States            LessThan5K0  
+2536 18-21        Private      HS-grad      Never-married            Adm-clerical Other-relative           White        Male         30           United-States            LessThan50K  
+error_attr: income, error_value: LessThan5K0
+
+2593 18-21        Private      Some-college Never-married            Transport-moving         Own-child    White        Male         24           United-States            LessThna50K  
+2593 18-21        Private      Some-college Never-married            Transport-moving         Own-child    White        Male         24           United-States            LessThan50K  
+error_attr: income, error_value: LessThna50K
+
+2625 18-21        Private      HS-grad      Never-married            Machine-op-inspct        Other-relative           White        Male         40           United-States            LessTkhan50K 
+2625 18-21        Private      HS-grad      Never-married            Machine-op-inspct        Other-relative           White        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: LessTkhan50K
+
+2632 18-21        Private      HS-grad      Never-married            Craft-repair Other-relative           White        Male         40           United-States            LespsThan50K 
+2632 18-21        Private      HS-grad      Never-married            Craft-repair Other-relative           White        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: LespsThan50K
+
+2640 18-21        Private      Some-college Never-married            Sales        Own-child    White        Male         35           United-States            LessThagn50K 
+2640 18-21        Private      Some-college Never-married            Sales        Own-child    White        Male         35           United-States            LessThan50K  
+error_attr: income, error_value: LessThagn50K
+
+2652 18-21        Private      HS-grad      Never-married            Other-service            Own-child    Black        Male         35           United-States            MoreThan50K  
+2652 18-21        Private      12th         Never-married            Other-service            Own-child    Black        Male         35           United-States            MoreThan50K  
+error_attr: education, error_value: HS-grad
+
+2672 18-21        ?            Some-college Never-married            ?            Own-child    White        Male         40           United-States            essThan50K   
+2672 18-21        ?            Some-college Never-married            ?            Own-child    White        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: essThan50K
+
+2771 18-21        Private      Some-college Married-civ-spouse       Sales        Wife         White        eFmale       30           United-States            LessThan50K  
+2771 18-21        Private      Some-college Married-civ-spouse       Sales        Wife         White        Female       30           United-States            LessThan50K  
+error_attr: sex, error_value: eFmale
+
+2774 18-21        Private      Some-college Never-married            Craft-repair Own-child    White        Male         40           United-States            LessThan50aK 
+2774 18-21        Private      Some-college Never-married            Craft-repair Own-child    White        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: LessThan50aK
+
+2783 18-21        Private      Some-college Never-married            Sales        Own-child    White        Male         18-21        United-States            LjessThan50K 
+2783 18-21        Private      Some-college Never-married            Sales        Own-child    White        Male         18-21        United-States            LessThan50K  
+error_attr: income, error_value: LjessThan50K
+
+2867 18-21        Private      Some-college Never-married            Sales        Other-relative           White        Male         40           United-States            eLssThan50K  
+2867 18-21        Private      Some-college Never-married            Sales        Other-relative           White        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: eLssThan50K
+
+2889 18-21        Private      Some-college Never-married            Prof-specialty           Own-child    White        Male         18-21        United-States            eLssThan50K  
+2889 18-21        Private      Some-college Never-married            Prof-specialty           Own-child    White        Male         18-21        United-States            LessThan50K  
+error_attr: income, error_value: eLssThan50K
+
+3119 18-21        Private      Some-college Never-married            Machine-op-inspct        Other-relative           Asian-Pac-Islander       Male         40           Vietnam      LessTahn50K  
+3119 18-21        Private      Some-college Never-married            Machine-op-inspct        Other-relative           Asian-Pac-Islander       Male         40           Vietnam      LessThan50K  
+error_attr: income, error_value: LessTahn50K
+
+3213 18-21        Private      HS-grad      Never-married            Sales        Not-in-family            White        Female       35           United-States            LssThan50K   
+3213 18-21        Private      HS-grad      Never-married            Sales        Not-in-family            White        Female       35           United-States            LessThan50K  
+error_attr: income, error_value: LssThan50K
+
+3230 18-21        Private      Some-college Never-married            Other-service            Not-in-family            White        Male         40           United-States            LessThajn50K 
+3230 18-21        Private      Some-college Never-married            Other-service            Not-in-family            White        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: LessThajn50K
+
+3256 18-21        Federal-gov  HS-grad      Never-married            Adm-clerical Own-child    White        Female       40           United-States            essThan50K   
+3256 18-21        Federal-gov  HS-grad      Never-married            Adm-clerical Own-child    White        Female       40           United-States            LessThan50K  
+error_attr: income, error_value: essThan50K
+
+3300 18-21        Private      HS-grad      Never-married            Sales        Own-child    Black        Female       18-21        United-States            LessThan5K0  
+3300 18-21        Private      HS-grad      Never-married            Sales        Own-child    Black        Female       18-21        United-States            LessThan50K  
+error_attr: income, error_value: LessThan5K0
+
+3356 18-21        Private      Some-college Never-married            Handlers-cleaners        Own-child    White        Male         18-21        United-States            LessThan50K***           
+3356 18-21        Private      Some-college Never-married            Handlers-cleaners        Own-child    White        Male         18-21        United-States            LessThan50K  
+error_attr: income, error_value: LessThan50K***
+
+3422 18-21        Private      HS-grad      Never-married            Other-service            Other-relative           Black        Male         25           United-States            LessTha50K   
+3422 18-21        Private      HS-grad      Never-married            Other-service            Other-relative           Black        Male         25           United-States            LessThan50K  
+error_attr: income, error_value: LessTha50K
+
+3472 18-21        Private      HS-grad      Never-married            Sales        Own-child    White        Female       23           United-States            LessThaun50K 
+3472 18-21        Private      HS-grad      Never-married            Sales        Own-child    White        Female       23           United-States            LessThan50K  
+error_attr: income, error_value: LessThaun50K
+
+3496 18-21        Private      HS-grad      Never-married            Handlers-cleaners        Own-child    White        Male         35           United-States            LessTan50K   
+3496 18-21        Private      HS-grad      Never-married            Handlers-cleaners        Own-child    White        Male         35           United-States            LessThan50K  
+error_attr: income, error_value: LessTan50K
+
+3497 18-21        Private      Some-college Never-married            Machine-op-inspct        Own-child    White        Male         40           United-States            LessThan50K***           
+3497 18-21        Private      Some-college Never-married            Machine-op-inspct        Own-child    White        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: LessThan50K***
+
+3634 18-21        Private      Some-college Never-married            Sales        Own-child    Black        Male         17           United-States            LessThian50K 
+3634 18-21        Private      Some-college Never-married            Sales        Own-child    Black        Male         17           United-States            LessThan50K  
+error_attr: income, error_value: LessThian50K
+
+3663 18-21        ?            HS-grad      Never-married            ?            Own-child    White        Female       40           United-States            LessThan50K***           
+3663 18-21        ?            HS-grad      Never-married            ?            Own-child    White        Female       40           United-States            LessThan50K  
+error_attr: income, error_value: LessThan50K***
+
+3706 18-21        Private      Some-college Never-married            Craft-repair Husband      White        Male         60           United-States            MoreThan50K  
+3706 18-21        Private      Some-college Married-civ-spouse       Craft-repair Husband      White        Male         60           United-States            MoreThan50K  
+error_attr: maritalstatus, error_value: Never-married
+
+3715 18-21        Private      Some-college Never-married            Machine-op-inspct        Not-in-family            White        Male         44           United-States            essThan50K   
+3715 18-21        Private      Some-college Never-married            Machine-op-inspct        Not-in-family            White        Male         44           United-States            LessThan50K  
+error_attr: income, error_value: essThan50K
+
+3754 18-21        ?            Some-college Never-married            ?            Husband      White        Female       40           United-States            LessThan50K  
+3754 18-21        ?            Some-college Never-married            ?            Own-child    White        Female       40           United-States            LessThan50K  
+error_attr: relationship, error_value: Husband
+
+3803 18-21        ?            Some-college Never-married            ?            Own-child    White        Male         40           United-States            LessThan05K  
+3803 18-21        ?            Some-college Never-married            ?            Own-child    White        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: LessThan05K
+
+3813 18-21        Private      HS-grad      Never-married            Adm-clerical Wife         White        Female       43           United-States            MoreThan50K  
+3813 18-21        Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         White        Female       43           United-States            MoreThan50K  
+error_attr: maritalstatus, error_value: Never-married
+
+3826 18-21        ?            Some-college Never-married            ?            Own-child    White        Male         40           United-States            LesesThan50K 
+3826 18-21        ?            Some-college Never-married            ?            Own-child    White        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: LesesThan50K
+
+3865 18-21        Private      HS-grad      Never-married            Prof-specialty           Not-in-family            White        Male         40           United-States            MoreThan50K  
+3865 18-21        Private      Bachelors    Never-married            Prof-specialty           Not-in-family            White        Male         40           United-States            MoreThan50K  
+error_attr: education, error_value: HS-grad
+
+3871 18-21        Private      Some-college Never-married            Other-service            Own-child    White        Male         35           United-States            LesThan50K   
+3871 18-21        Private      Some-college Never-married            Other-service            Own-child    White        Male         35           United-States            LessThan50K  
+error_attr: income, error_value: LesThan50K
+
+3932 18-21        Private      HS-grad      Never-married            Other-service            Other-relative           White        Female       35           United-States            LessThan05K  
+3932 18-21        Private      HS-grad      Never-married            Other-service            Other-relative           White        Female       35           United-States            LessThan50K  
+error_attr: income, error_value: LessThan05K
+
+3957 18-21        Private      HS-grad      Never-married            Other-service            Other-relative           Black        Male         40           United-States            bLessThan50K 
+3957 18-21        Private      HS-grad      Never-married            Other-service            Other-relative           Black        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: bLessThan50K
+
+4023 18-21        State-gov    Some-college Never-married            Other-service            Own-child    White        Male         10           United-States            LuessThan50K 
+4023 18-21        State-gov    Some-college Never-married            Other-service            Own-child    White        Male         10           United-States            LessThan50K  
+error_attr: income, error_value: LuessThan50K
+
+4051 18-21        Private      Some-college Never-married            Craft-repair Own-child    White        Male         40           United-States            LesThan50K   
+4051 18-21        Private      Some-college Never-married            Craft-repair Own-child    White        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: LesThan50K
+
+4078 18-21        Private      Some-college Never-married            Sales        Own-child    White        Male         40           United-States            LessoThan50K 
+4078 18-21        Private      Some-college Never-married            Sales        Own-child    White        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: LessoThan50K
+
+4089 18-21        Private      Some-college Never-married            Other-service            Own-child    White        Male         40           United-States            LebssThan50K 
+4089 18-21        Private      Some-college Never-married            Other-service            Own-child    White        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: LebssThan50K
+
+4145 18-21        Private      Some-college Never-married            Adm-clerical Own-child    White        Male         40           United-States            essThan50K   
+4145 18-21        Private      Some-college Never-married            Adm-clerical Own-child    White        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: essThan50K
+
+4210 18-21        Private      HS-grad      Never-married            Other-service            Not-in-family            White        Female       40           United-States            Lesshan50K   
+4210 18-21        Private      HS-grad      Never-married            Other-service            Not-in-family            White        Female       40           United-States            LessThan50K  
+error_attr: income, error_value: Lesshan50K
+
+4235 18-21        Private      Some-college Never-married            Protective-serv          Not-in-family            Black        Male         40           United-States            MoreThan50K  
+4235 18-21        Private      Some-college Never-married            Protective-serv          Not-in-family            Black        Female       40           United-States            MoreThan50K  
+error_attr: sex, error_value: Male
+
+4249 18-21        Private      HS-grad      Never-married            Other-service            Own-child    White        Female       40           United-States            eLssThan50K  
+4249 18-21        Private      HS-grad      Never-married            Other-service            Own-child    White        Female       40           United-States            LessThan50K  
+error_attr: income, error_value: eLssThan50K
+
+4268 18-21        Private      HS-grad      Never-married            Prof-specialty           Own-child    White        Male         40           Mexico       MoreThan50K  
+4268 18-21        Private      HS-grad      Married-civ-spouse       Prof-specialty           Own-child    White        Male         40           Mexico       MoreThan50K  
+error_attr: maritalstatus, error_value: Never-married
+
+4375 18-21        Private      Some-college Never-married            Handlers-cleaners        Own-child    Asian-Pac-Islander       Male         40           Philippines  eLssThan50K  
+4375 18-21        Private      Some-college Never-married            Handlers-cleaners        Own-child    Asian-Pac-Islander       Male         40           Philippines  LessThan50K  
+error_attr: income, error_value: eLssThan50K
+
+4463 18-21        Private      Some-college Never-married            Machine-op-inspct        Own-child    White        Male         40           ?            LessTahn50K  
+4463 18-21        Private      Some-college Never-married            Machine-op-inspct        Own-child    White        Male         40           ?            LessThan50K  
+error_attr: income, error_value: LessTahn50K
+
+4485 18-21        Private      Some-college Never-married            Adm-clerical Own-child    Black        Male         50           United-States            LessThan0K   
+4485 18-21        Private      Some-college Never-married            Adm-clerical Own-child    Black        Male         50           United-States            LessThan50K  
+error_attr: income, error_value: LessThan0K
+
+4544 18-21        Private      Some-college Never-married            Sales        Own-child    White        Male         18-21        United-States            LessThan5g0K 
+4544 18-21        Private      Some-college Never-married            Sales        Own-child    White        Male         18-21        United-States            LessThan50K  
+error_attr: income, error_value: LessThan5g0K
+
+4568 18-21        Private      HS-grad      Never-married            Craft-repair Own-child    White        Male         13           ?            hLessThan50K 
+4568 18-21        Private      HS-grad      Never-married            Craft-repair Own-child    White        Male         13           ?            LessThan50K  
+error_attr: income, error_value: hLessThan50K
+
+4572 18-21        Private      HS-grad      Never-married            Handlers-cleaners        Not-in-family            White        Male         40           United-States            LessThan50xK 
+4572 18-21        Private      HS-grad      Never-married            Handlers-cleaners        Not-in-family            White        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: LessThan50xK
+
+4638 18-21        ?            Some-college Never-married            ?            Own-child    White        Male         40           United-States            LesshTan50K  
+4638 18-21        ?            Some-college Never-married            ?            Own-child    White        Male         40           United-States            LessThan50K  
+error_attr: income, error_value: LesshTan50K
+
+4642 18-21        Federal-gov  Some-college Never-married            Tech-support Own-child    Black        Male         18-21        United-States            LessThan5K0  
+4642 18-21        Federal-gov  Some-college Never-married            Tech-support Own-child    Black        Male         18-21        United-States            LessThan50K  
+error_attr: income, error_value: LessThan5K0
+
+5038 22-30        Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         White        Femael       30           United-States            LessThan50K  
+5038 22-30        Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         White        Female       30           United-States            LessThan50K  
+error_attr: sex, error_value: Femael
+
+5339 22-30        Private      Some-college Married-civ-spouse       Adm-clerical Wife         Amer-Indian-Eskimo       Femyale      44           United-States            LessThan50K  
+5339 22-30        Private      Some-college Married-civ-spouse       Adm-clerical Wife         Amer-Indian-Eskimo       Female       44           United-States            LessThan50K  
+error_attr: sex, error_value: Femyale
+
+5860 18-21        Self-emp-not-inc         Some-college Never-married            Sales        Own-child    Black        Male         55           United-States            MoreThan50K  
+5860 22-30        Self-emp-not-inc         Some-college Never-married            Sales        Own-child    Black        Male         55           United-States            MoreThan50K  
+error_attr: age, error_value: 18-21
+
+6227 22-30        Private      HS-grad      Married-civ-spouse       Sales        Wife         White        Feamle       40           United-States            LessThan50K  
+6227 22-30        Private      HS-grad      Married-civ-spouse       Sales        Wife         White        Female       40           United-States            LessThan50K  
+error_attr: sex, error_value: Feamle
+
+6642 >50          Never-worked 7th-8th      Divorced     ?            Not-in-family            White        Male         35           United-States            LessThan50K  
+6642 22-30        Never-worked 7th-8th      Divorced     ?            Not-in-family            White        Male         35           United-States            LessThan50K  
+error_attr: age, error_value: >50
+
+7550 22-30        Private      Some-college Married-civ-spouse       Craft-repair Husband      White        Mae          50           United-States            LessThan50K  
+7550 22-30        Private      Some-college Married-civ-spouse       Craft-repair Husband      White        Male         50           United-States            LessThan50K  
+error_attr: sex, error_value: Mae
+
+7969 22-30        Local-gov    Bachelors    Married-civ-spouse       Prof-specialty           Wife         Black        Feamle       40           United-States            LessThan50K  
+7969 22-30        Local-gov    Bachelors    Married-civ-spouse       Prof-specialty           Wife         Black        Female       40           United-States            LessThan50K  
+error_attr: sex, error_value: Feamle
+
+8848 22-30        Private      12th         Married-civ-spouse       Other-service            Wife         White        Femle        40           United-States            LessThan50K  
+8848 22-30        Private      12th         Married-civ-spouse       Other-service            Wife         White        Female       40           United-States            LessThan50K  
+error_attr: sex, error_value: Femle
+
+9980 >50          ?            Some-college Married-AF-spouse        ?            Husband      Black        Male         38           United-States            LessThan50K  
+9980 22-30        ?            Some-college Married-AF-spouse        ?            Husband      Black        Male         38           United-States            LessThan50K  
+error_attr: age, error_value: >50
+
+10031 22-30        Private      Some-college Married-civ-spouse       Exec-managerial          Wife         White        Fiemale      35           United-States            LessThan50K  
+10031 22-30        Private      Some-college Married-civ-spouse       Exec-managerial          Wife         White        Female       35           United-States            LessThan50K  
+error_attr: sex, error_value: Fiemale
+
+10158 22-30        Private      Bachelors    Married-civ-spouse       Prof-specialty           Husband      White        aMle         50           United-States            MoreThan50K  
+10158 22-30        Private      Bachelors    Married-civ-spouse       Prof-specialty           Husband      White        Male         50           United-States            MoreThan50K  
+error_attr: sex, error_value: aMle
+
+10605 >50          Private      HS-grad      Married-AF-spouse        Sales        Husband      White        Male         55           United-States            LessThan50K  
+10605 22-30        Private      HS-grad      Married-AF-spouse        Sales        Husband      White        Male         55           United-States            LessThan50K  
+error_attr: age, error_value: >50
+
+10685 22-30        Private      Some-college Married-civ-spouse       Exec-managerial          Wife         White        Feale        40           United-States            LessThan50K  
+10685 22-30        Private      Some-college Married-civ-spouse       Exec-managerial          Wife         White        Female       40           United-States            LessThan50K  
+error_attr: sex, error_value: Feale
+
+11481 >50          Private      HS-grad      Married-AF-spouse        Craft-repair Husband      White        Male         40           United-States            MoreThan50K  
+11481 22-30        Private      HS-grad      Married-AF-spouse        Craft-repair Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: age, error_value: >50
+
+12675 22-30        Self-emp-not-inc         Some-college Married-civ-spouse       Craft-repair Husband      White        Mael         40           United-States            LessThan50K  
+12675 22-30        Self-emp-not-inc         Some-college Married-civ-spouse       Craft-repair Husband      White        Male         40           United-States            LessThan50K  
+error_attr: sex, error_value: Mael
+
+12763 22-30        Private      Some-college Married-civ-spouse       Handlers-cleaners        Husband      White        Matle        40           United-States            MoreThan50K  
+12763 22-30        Private      Some-college Married-civ-spouse       Handlers-cleaners        Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: Matle
+
+13368 22-30        State-gov    Bachelors    Married-civ-spouse       Prof-specialty           Wife         Black        Fmeale       35           United-States            LessThan50K  
+13368 22-30        State-gov    Bachelors    Married-civ-spouse       Prof-specialty           Wife         Black        Female       35           United-States            LessThan50K  
+error_attr: sex, error_value: Fmeale
+
+13445 22-30        Private      Some-college Married-civ-spouse       Tech-support Wife         White        Femuale      18-21        United-States            LessThan50K  
+13445 22-30        Private      Some-college Married-civ-spouse       Tech-support Wife         White        Female       18-21        United-States            LessThan50K  
+error_attr: sex, error_value: Femuale
+
+13719 31-50        Private      Bachelors    Married-civ-spouse       Exec-managerial          Wife         White        Male         40           United-States            LessThan50K  
+13719 22-30        Private      Bachelors    Married-civ-spouse       Exec-managerial          Wife         White        Male         40           United-States            MoreThan50K  
+error_attr: age, error_value: 31-50
+
+13719 31-50        Private      Bachelors    Married-civ-spouse       Exec-managerial          Wife         White        Male         40           United-States            LessThan50K  
+13719 22-30        Private      Bachelors    Married-civ-spouse       Exec-managerial          Wife         White        Male         40           United-States            MoreThan50K  
+error_attr: income, error_value: LessThan50K
+
+13879 22-30        Local-gov    HS-grad      Married-civ-spouse       Other-service            Wife         White        Feale        40           United-States            LessThan50K  
+13879 22-30        Local-gov    HS-grad      Married-civ-spouse       Other-service            Wife         White        Female       40           United-States            LessThan50K  
+error_attr: sex, error_value: Feale
+
+14092 22-30        ?            Some-college Married-civ-spouse       ?            Wife         White        lFemale      40           United-States            LessThan50K  
+14092 22-30        ?            Some-college Married-civ-spouse       ?            Wife         White        Female       40           United-States            LessThan50K  
+error_attr: sex, error_value: lFemale
+
+14439 >50          Federal-gov  Bachelors    Married-AF-spouse        Prof-specialty           Husband      White        Male         50           United-States            MoreThan50K  
+14439 22-30        Federal-gov  Bachelors    Married-AF-spouse        Prof-specialty           Husband      White        Male         50           United-States            MoreThan50K  
+error_attr: age, error_value: >50
+
+14540 22-30        ?            Masters      Never-married            Exec-managerial          Not-in-family            White        Male         40           United-States            LessThan50K  
+14540 22-30        Private      Masters      Never-married            Exec-managerial          Not-in-family            White        Male         40           United-States            LessThan50K  
+error_attr: workclass, error_value: ?
+
+14541 22-30        ?            Some-college Never-married            Sales        Not-in-family            White        Male         40           United-States            LessThan50K  
+14541 22-30        Self-emp-not-inc         Some-college Never-married            Sales        Not-in-family            White        Male         40           United-States            LessThan50K  
+error_attr: workclass, error_value: ?
+
+14542 22-30        ?            Bachelors    Never-married            Prof-specialty           Not-in-family            White        Male         40           United-States            LessThan50K  
+14542 22-30        Federal-gov  Bachelors    Never-married            Prof-specialty           Not-in-family            White        Male         40           United-States            LessThan50K  
+error_attr: workclass, error_value: ?
+
+14543 22-30        ?            Bachelors    Married-civ-spouse       Exec-managerial          Husband      White        Male         40           United-States            MoreThan50K  
+14543 22-30        State-gov    Bachelors    Married-civ-spouse       Exec-managerial          Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: workclass, error_value: ?
+
+15290 22-30        Private      Bachelors    Married-civ-spouse       Adm-clerical Wife         White        eFmale       40           United-States            LessThan50K  
+15290 22-30        Private      Bachelors    Married-civ-spouse       Adm-clerical Wife         White        Female       40           United-States            LessThan50K  
+error_attr: sex, error_value: eFmale
+
+15481 22-30        ?            Some-college Married-civ-spouse       ?            Husband      White        ale          40           United-States            LessThan50K  
+15481 22-30        ?            Some-college Married-civ-spouse       ?            Husband      White        Male         40           United-States            LessThan50K  
+error_attr: sex, error_value: ale
+
+15513 22-30        Private      Some-college Married-civ-spouse       Adm-clerical Wife         White        emale        40           United-States            LessThan50K  
+15513 22-30        Private      Some-college Married-civ-spouse       Adm-clerical Wife         White        Female       40           United-States            LessThan50K  
+error_attr: sex, error_value: emale
+
+15872 31-50        Local-gov    Some-college Married-civ-spouse       Protective-serv          Husband      Black        aMle         50           United-States            MoreThan50K  
+15872 31-50        Local-gov    Some-college Married-civ-spouse       Protective-serv          Husband      Black        Male         50           United-States            MoreThan50K  
+error_attr: sex, error_value: aMle
+
+16005 31-50        Local-gov    Bachelors    Married-civ-spouse       Prof-specialty           Wife         White        Femael       40           United-States            MoreThan50K  
+16005 31-50        Local-gov    Bachelors    Married-civ-spouse       Prof-specialty           Wife         White        Female       40           United-States            MoreThan50K  
+error_attr: sex, error_value: Femael
+
+16087 31-50        Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         White        Febmale      35           United-States            LessThan50K  
+16087 31-50        Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         White        Female       35           United-States            LessThan50K  
+error_attr: sex, error_value: Febmale
+
+16382 18-21        Private      HS-grad      Never-married            Craft-repair Unmarried    White        Male         40           United-States            MoreThan50K  
+16382 31-50        Private      HS-grad      Never-married            Craft-repair Unmarried    White        Male         40           United-States            MoreThan50K  
+error_attr: age, error_value: 18-21
+
+16386 31-50        Local-gov    Assoc-acdm   Married-civ-spouse       Adm-clerical Wife         White        cFemale      35           United-States            LessThan50K  
+16386 31-50        Local-gov    Assoc-acdm   Married-civ-spouse       Adm-clerical Wife         White        Female       35           United-States            LessThan50K  
+error_attr: sex, error_value: cFemale
+
+16508 31-50        Private      HS-grad      Married-civ-spouse       Machine-op-inspct        Husband      White        Female       40           United-States            MoreThan50K  
+16508 31-50        Private      HS-grad      Married-civ-spouse       Machine-op-inspct        Wife         White        Female       40           United-States            MoreThan50K  
+error_attr: relationship, error_value: Husband
+
+16676 31-50        Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         White        Feale        27           United-States            LessThan50K  
+16676 31-50        Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         White        Female       27           United-States            LessThan50K  
+error_attr: sex, error_value: Feale
+
+17275 31-50        Private      HS-grad      Married-civ-spouse       Craft-repair Husband      White        Mae          46           United-States            MoreThan50K  
+17275 31-50        Private      HS-grad      Married-civ-spouse       Craft-repair Husband      White        Male         46           United-States            MoreThan50K  
+error_attr: sex, error_value: Mae
+
+17318 31-50        Private      Some-college Married-AF-spouse        Exec-managerial          Wife         White        Fmale        40           United-States            MoreThan50K  
+17318 31-50        Private      Some-college Married-AF-spouse        Exec-managerial          Wife         White        Female       40           United-States            MoreThan50K  
+error_attr: sex, error_value: Fmale
+
+17407 31-50        Private      HS-grad      Married-civ-spouse       Sales        Wife         White        eFmale       40           United-States            LessThan50K  
+17407 31-50        Private      HS-grad      Married-civ-spouse       Sales        Wife         White        Female       40           United-States            LessThan50K  
+error_attr: sex, error_value: eFmale
+
+17837 31-50        Private      HS-grad      Married-civ-spouse       Tech-support Wife         White        eFmale       36           United-States            LessThan50K  
+17837 31-50        Private      HS-grad      Married-civ-spouse       Tech-support Wife         White        Female       36           United-States            LessThan50K  
+error_attr: sex, error_value: eFmale
+
+17973 31-50        ?            Bachelors    Married-civ-spouse       ?            Husband      White        Female       18-21        United-States            MoreThan50K  
+17973 31-50        ?            Bachelors    Married-civ-spouse       ?            Wife         White        Female       18-21        United-States            MoreThan50K  
+error_attr: relationship, error_value: Husband
+
+18110 31-50        Private      Some-college Married-civ-spouse       Other-service            Husband      Black        Mlae         50           United-States            LessThan50K  
+18110 31-50        Private      Some-college Married-civ-spouse       Other-service            Husband      Black        Male         50           United-States            LessThan50K  
+error_attr: sex, error_value: Mlae
+
+18440 31-50        Private      HS-grad      Married-civ-spouse       Other-service            Wife         White        Femadle      30           United-States            LessThan50K  
+18440 31-50        Private      HS-grad      Married-civ-spouse       Other-service            Wife         White        Female       30           United-States            LessThan50K  
+error_attr: sex, error_value: Femadle
+
+18463 31-50        Private      Some-college Married-civ-spouse       Craft-repair Husband      White        Mae          40           United-States            LessThan50K  
+18463 31-50        Private      Some-college Married-civ-spouse       Craft-repair Husband      White        Male         40           United-States            LessThan50K  
+error_attr: sex, error_value: Mae
+
+19351 31-50        Private      Assoc-acdm   Married-civ-spouse       Prof-specialty           Wife         White        Male         40           United-States            MoreThan50K  
+19351 31-50        Private      Assoc-acdm   Married-civ-spouse       Prof-specialty           Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: relationship, error_value: Wife
+
+19355 31-50        Private      7th-8th      Divorced     Handlers-cleaners        Wife         White        Male         35           United-States            LessThan50K  
+19355 31-50        Private      7th-8th      Divorced     Handlers-cleaners        Not-in-family            White        Male         35           United-States            LessThan50K  
+error_attr: relationship, error_value: Wife
+
+19356 31-50        Private      HS-grad      Married-civ-spouse       Machine-op-inspct        Wife         White        Male         84           United-States            MoreThan50K  
+19356 31-50        Private      HS-grad      Married-civ-spouse       Machine-op-inspct        Husband      White        Male         84           United-States            MoreThan50K  
+error_attr: relationship, error_value: Wife
+
+19357 31-50        ?            Some-college Never-married            ?            Wife         White        Male         40           United-States            LessThan50K  
+19357 31-50        ?            Some-college Never-married            ?            Own-child    White        Male         40           United-States            LessThan50K  
+error_attr: relationship, error_value: Wife
+
+19798 31-50        Private      Bachelors    Married-civ-spouse       Prof-specialty           Husband      White        Mael         40           United-States            MoreThan50K  
+19798 31-50        Private      Bachelors    Married-civ-spouse       Prof-specialty           Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: Mael
+
+19845 31-50        Private      Assoc-acdm   Married-civ-spouse       Prof-specialty           Wife         White        Femael       45           United-States            MoreThan50K  
+19845 31-50        Private      Assoc-acdm   Married-civ-spouse       Prof-specialty           Wife         White        Female       45           United-States            MoreThan50K  
+error_attr: sex, error_value: Femael
+
+20008 18-21        Private      Some-college Never-married            Exec-managerial          Not-in-family            White        Male         40           United-States            MoreThan50K  
+20008 31-50        Private      Some-college Never-married            Exec-managerial          Not-in-family            White        Male         40           United-States            MoreThan50K  
+error_attr: age, error_value: 18-21
+
+20165 31-50        State-gov    Some-college Married-civ-spouse       Exec-managerial          Husband      White        Mlae         38           United-States            LessThan50K  
+20165 31-50        State-gov    Some-college Married-civ-spouse       Exec-managerial          Husband      White        Male         38           United-States            LessThan50K  
+error_attr: sex, error_value: Mlae
+
+20294 31-50        Self-emp-not-inc         HS-grad      Married-civ-spouse       Sales        Husband      White        ale          60           United-States            MoreThan50K  
+20294 31-50        Self-emp-not-inc         HS-grad      Married-civ-spouse       Sales        Husband      White        Male         60           United-States            MoreThan50K  
+error_attr: sex, error_value: ale
+
+20318 >50          Private      Some-college Married-civ-spouse       Sales        Husband      White        Female       40           United-States            MoreThan50K  
+20318 31-50        Private      HS-grad      Married-civ-spouse       Sales        Husband      White        Female       40           United-States            LessThan50K  
+error_attr: age, error_value: >50
+
+20318 >50          Private      Some-college Married-civ-spouse       Sales        Husband      White        Female       40           United-States            MoreThan50K  
+20318 31-50        Private      HS-grad      Married-civ-spouse       Sales        Husband      White        Female       40           United-States            LessThan50K  
+error_attr: education, error_value: Some-college
+
+20318 >50          Private      Some-college Married-civ-spouse       Sales        Husband      White        Female       40           United-States            MoreThan50K  
+20318 31-50        Private      HS-grad      Married-civ-spouse       Sales        Husband      White        Female       40           United-States            LessThan50K  
+error_attr: income, error_value: MoreThan50K
+
+20409 31-50        Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         White        Fgemale      18-21        United-States            LessThan50K  
+20409 31-50        Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         White        Female       18-21        United-States            LessThan50K  
+error_attr: sex, error_value: Fgemale
+
+20906 31-50        Private      Some-college Married-civ-spouse       Exec-managerial          Husband      White        Mle          50           United-States            MoreThan50K  
+20906 31-50        Private      Some-college Married-civ-spouse       Exec-managerial          Husband      White        Male         50           United-States            MoreThan50K  
+error_attr: sex, error_value: Mle
+
+20985 31-50        Self-emp-inc Some-college Married-civ-spouse       Exec-managerial          Husband      White        Mae          65           United-States            MoreThan50K  
+20985 31-50        Self-emp-inc Some-college Married-civ-spouse       Exec-managerial          Husband      White        Male         65           United-States            MoreThan50K  
+error_attr: sex, error_value: Mae
+
+21135 31-50        Private      10th         Married-civ-spouse       Adm-clerical Wife         White        Feale        36           United-States            LessThan50K  
+21135 31-50        Private      10th         Married-civ-spouse       Adm-clerical Wife         White        Female       36           United-States            LessThan50K  
+error_attr: sex, error_value: Feale
+
+21393 31-50        Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         White        Femalhe      40           United-States            LessThan50K  
+21393 31-50        Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         White        Female       40           United-States            LessThan50K  
+error_attr: sex, error_value: Femalhe
+
+21486 31-50        Private      HS-grad      Married-civ-spouse       Machine-op-inspct        Wife         Black        eFmale       40           United-States            LessThan50K  
+21486 31-50        Private      HS-grad      Married-civ-spouse       Machine-op-inspct        Wife         Black        Female       40           United-States            LessThan50K  
+error_attr: sex, error_value: eFmale
+
+21697 31-50        Self-emp-not-inc         HS-grad      Married-civ-spouse       Craft-repair Husband      White        aMle         40           United-States            MoreThan50K  
+21697 31-50        Self-emp-not-inc         HS-grad      Married-civ-spouse       Craft-repair Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: aMle
+
+21963 31-50        Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         White        emale        42           United-States            MoreThan50K  
+21963 31-50        Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         White        Female       42           United-States            MoreThan50K  
+error_attr: sex, error_value: emale
+
+21965 31-50        Private      Some-college Married-civ-spouse       Prof-specialty           Husband      Amer-Indian-Eskimo       Mayle        40           United-States            LessThan50K  
+21965 31-50        Private      Some-college Married-civ-spouse       Prof-specialty           Husband      Amer-Indian-Eskimo       Male         40           United-States            LessThan50K  
+error_attr: sex, error_value: Mayle
+
+22010 18-21        Private      HS-grad      Never-married            Sales        Not-in-family            White        Male         40           United-States            MoreThan50K  
+22010 31-50        Private      HS-grad      Never-married            Sales        Not-in-family            White        Male         40           United-States            MoreThan50K  
+error_attr: age, error_value: 18-21
+
+22128 31-50        Private      HS-grad      Married-civ-spouse       Exec-managerial          Wife         White        Femae        40           United-States            MoreThan50K  
+22128 31-50        Private      HS-grad      Married-civ-spouse       Exec-managerial          Wife         White        Female       40           United-States            MoreThan50K  
+error_attr: sex, error_value: Femae
+
+22132 31-50        Self-emp-not-inc         Bachelors    Married-civ-spouse       Exec-managerial          Husband      White        Mlae         50           United-States            MoreThan50K  
+22132 31-50        Self-emp-not-inc         Bachelors    Married-civ-spouse       Exec-managerial          Husband      White        Male         50           United-States            MoreThan50K  
+error_attr: sex, error_value: Mlae
+
+22136 31-50        Private      HS-grad      Married-civ-spouse       Prof-specialty           Wife         White        Fermale      35           United-States            LessThan50K  
+22136 31-50        Private      HS-grad      Married-civ-spouse       Prof-specialty           Wife         White        Female       35           United-States            LessThan50K  
+error_attr: sex, error_value: Fermale
+
+22398 31-50        Private      Some-college Married-civ-spouse       Prof-specialty           Husband      White        Mlae         50           United-States            MoreThan50K  
+22398 31-50        Private      Some-college Married-civ-spouse       Prof-specialty           Husband      White        Male         50           United-States            MoreThan50K  
+error_attr: sex, error_value: Mlae
+
+22424 31-50        Private      Some-college Married-civ-spouse       Other-service            Wife         White        Femael       32           United-States            MoreThan50K  
+22424 31-50        Private      Some-college Married-civ-spouse       Other-service            Wife         White        Female       32           United-States            MoreThan50K  
+error_attr: sex, error_value: Femael
+
+22574 31-50        Private      Assoc-voc    Married-civ-spouse       Prof-specialty           Wife         White        Feale        50           United-States            MoreThan50K  
+22574 31-50        Private      Assoc-voc    Married-civ-spouse       Prof-specialty           Wife         White        Female       50           United-States            MoreThan50K  
+error_attr: sex, error_value: Feale
+
+22971 31-50        Private      5th-6th      Married-civ-spouse       Machine-op-inspct        Husband      White        Mhale        40           Mexico       MoreThan50K  
+22971 31-50        Private      5th-6th      Married-civ-spouse       Machine-op-inspct        Husband      White        Male         40           Mexico       MoreThan50K  
+error_attr: sex, error_value: Mhale
+
+23057 31-50        Private      Masters      Married-civ-spouse       Exec-managerial          Husband      White        Mvale        50           United-States            MoreThan50K  
+23057 31-50        Private      Masters      Married-civ-spouse       Exec-managerial          Husband      White        Male         50           United-States            MoreThan50K  
+error_attr: sex, error_value: Mvale
+
+23530 31-50        Private      Bachelors    Married-civ-spouse       Sales        Wife         White        Male         60           United-States            LessThan50K  
+23530 31-50        Private      Bachelors    Married-civ-spouse       Sales        Wife         White        Male         60           ?            LessThan50K  
+error_attr: country, error_value: United-States
+
+23584 31-50        Self-emp-not-inc         5th-6th      Married-civ-spouse       Transport-moving         Husband      White        aMle         50           Mexico       MoreThan50K  
+23584 31-50        Self-emp-not-inc         5th-6th      Married-civ-spouse       Transport-moving         Husband      White        Male         50           Mexico       MoreThan50K  
+error_attr: sex, error_value: aMle
+
+23821 31-50        Private      Some-college Married-civ-spouse       Tech-support Husband      White        ale          40           United-States            MoreThan50K  
+23821 31-50        Private      Some-college Married-civ-spouse       Tech-support Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: ale
+
+24460 31-50        Self-emp-inc Some-college Married-civ-spouse       Exec-managerial          Husband      White        Mle          60           United-States            MoreThan50K  
+24460 31-50        Self-emp-inc Some-college Married-civ-spouse       Exec-managerial          Husband      White        Male         60           United-States            MoreThan50K  
+error_attr: sex, error_value: Mle
+
+24834 31-50        Private      Some-college Married-civ-spouse       Craft-repair Husband      White        Mae          55           United-States            LessThan50K  
+24834 31-50        Private      Some-college Married-civ-spouse       Craft-repair Husband      White        Male         55           United-States            LessThan50K  
+error_attr: sex, error_value: Mae
+
+24946 31-50        Private      Bachelors    Married-civ-spouse       Prof-specialty           Wife         White        Femael       16           United-States            MoreThan50K  
+24946 31-50        Private      Bachelors    Married-civ-spouse       Prof-specialty           Wife         White        Female       16           United-States            MoreThan50K  
+error_attr: sex, error_value: Femael
+
+25167 31-50        State-gov    Bachelors    Married-civ-spouse       Prof-specialty           Wife         White        Femle        18-21        United-States            MoreThan50K  
+25167 31-50        State-gov    Bachelors    Married-civ-spouse       Prof-specialty           Wife         White        Female       18-21        United-States            MoreThan50K  
+error_attr: sex, error_value: Femle
+
+25186 31-50        Self-emp-inc Doctorate    Married-civ-spouse       Exec-managerial          Husband      White        Mae          60           United-States            MoreThan50K  
+25186 31-50        Self-emp-inc Doctorate    Married-civ-spouse       Exec-managerial          Husband      White        Male         60           United-States            MoreThan50K  
+error_attr: sex, error_value: Mae
+
+25277 31-50        Private      Assoc-voc    Married-civ-spouse       Other-service            Wife         White        Feale        40           United-States            LessThan50K  
+25277 31-50        Private      Assoc-voc    Married-civ-spouse       Other-service            Wife         White        Female       40           United-States            LessThan50K  
+error_attr: sex, error_value: Feale
+
+25479 31-50        Private      HS-grad      Married-civ-spouse       Exec-managerial          Wife         White        Femle        55           United-States            LessThan50K  
+25479 31-50        Private      HS-grad      Married-civ-spouse       Exec-managerial          Wife         White        Female       55           United-States            LessThan50K  
+error_attr: sex, error_value: Femle
+
+25679 31-50        Private      Bachelors    Married-civ-spouse       Exec-managerial          Wife         White        Male         60           United-States            LessThan50K  
+25679 31-50        Private      Bachelors    Married-civ-spouse       Exec-managerial          Husband      White        Male         60           United-States            LessThan50K  
+error_attr: relationship, error_value: Wife
+
+25681 31-50        State-gov    Assoc-acdm   Never-married            Exec-managerial          Wife         White        Male         60           United-States            LessThan50K  
+25681 31-50        State-gov    Assoc-acdm   Never-married            Exec-managerial          Not-in-family            White        Male         60           United-States            LessThan50K  
+error_attr: relationship, error_value: Wife
+
+25682 31-50        Private      Some-college Married-civ-spouse       Handlers-cleaners        Wife         White        pFemale      35           United-States            LessThan50K  
+25682 31-50        Private      Some-college Married-civ-spouse       Handlers-cleaners        Wife         White        Female       35           United-States            LessThan50K  
+error_attr: sex, error_value: pFemale
+
+25683 31-50        Federal-gov  HS-grad      Married-civ-spouse       Adm-clerical Wife         White        Male         40           United-States            LessThan50K  
+25683 31-50        Federal-gov  HS-grad      Married-civ-spouse       Adm-clerical Husband      White        Male         40           United-States            LessThan50K  
+error_attr: relationship, error_value: Wife
+
+25685 31-50        Self-emp-inc HS-grad      Married-civ-spouse       Exec-managerial          Wife         White        Male         65           United-States            LessThan50K  
+25685 31-50        Self-emp-inc HS-grad      Married-civ-spouse       Exec-managerial          Husband      White        Male         65           United-States            LessThan50K  
+error_attr: relationship, error_value: Wife
+
+25747 31-50        Private      Some-college Married-civ-spouse       Handlers-cleaners        Husband      White        aMle         40           United-States            LessThan50K  
+25747 31-50        Private      Some-college Married-civ-spouse       Handlers-cleaners        Husband      White        Male         40           United-States            LessThan50K  
+error_attr: sex, error_value: aMle
+
+25755 31-50        Private      Some-college Never-married            Adm-clerical Husband      Black        Female       40           United-States            LessThan50K  
+25755 31-50        Private      Some-college Never-married            Adm-clerical Own-child    Black        Female       40           United-States            LessThan50K  
+error_attr: relationship, error_value: Husband
+
+26085 31-50        Private      HS-grad      Married-AF-spouse        Other-service            Wife         White        Fezmale      25           United-States            LessThan50K  
+26085 31-50        Private      HS-grad      Married-AF-spouse        Other-service            Wife         White        Female       25           United-States            LessThan50K  
+error_attr: sex, error_value: Fezmale
+
+26206 31-50        Private      Some-college Married-civ-spouse       Craft-repair Husband      White        Mle          52           United-States            MoreThan50K  
+26206 31-50        Private      Some-college Married-civ-spouse       Craft-repair Husband      White        Male         52           United-States            MoreThan50K  
+error_attr: sex, error_value: Mle
+
+26350 31-50        Private      Some-college Married-civ-spouse       Exec-managerial          Husband      White        Mae          40           United-States            MoreThan50K  
+26350 31-50        Private      Some-college Married-civ-spouse       Exec-managerial          Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: Mae
+
+26546 31-50        Private      HS-grad      Married-civ-spouse       Other-service            Wife         White        Fcemale      40           United-States            LessThan50K  
+26546 31-50        Private      HS-grad      Married-civ-spouse       Other-service            Wife         White        Female       40           United-States            LessThan50K  
+error_attr: sex, error_value: Fcemale
+
+27150 31-50        Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         Black        Femlae       50           United-States            LessThan50K  
+27150 31-50        Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         Black        Female       50           United-States            LessThan50K  
+error_attr: sex, error_value: Femlae
+
+27278 31-50        Private      Masters      Married-civ-spouse       Prof-specialty           Wife         White        emale        24           United-States            MoreThan50K  
+27278 31-50        Private      Masters      Married-civ-spouse       Prof-specialty           Wife         White        Female       24           United-States            MoreThan50K  
+error_attr: sex, error_value: emale
+
+27287 31-50        Private      Bachelors    Married-civ-spouse       Exec-managerial          Wife         White        Femalpe      60           United-States            MoreThan50K  
+27287 31-50        Private      Bachelors    Married-civ-spouse       Exec-managerial          Wife         White        Female       60           United-States            MoreThan50K  
+error_attr: sex, error_value: Femalpe
+
+27423 31-50        Private      Masters      Married-civ-spouse       Prof-specialty           Husband      Asian-Pac-Islander       ale          40           Philippines  MoreThan50K  
+27423 31-50        Private      Masters      Married-civ-spouse       Prof-specialty           Husband      Asian-Pac-Islander       Male         40           Philippines  MoreThan50K  
+error_attr: sex, error_value: ale
+
+27767 31-50        Local-gov    HS-grad      Married-civ-spouse       Protective-serv          Wife         Black        Femiale      75           United-States            LessThan50K  
+27767 31-50        Local-gov    HS-grad      Married-civ-spouse       Protective-serv          Wife         Black        Female       75           United-States            LessThan50K  
+error_attr: sex, error_value: Femiale
+
+27796 31-50        Local-gov    Bachelors    Married-civ-spouse       Prof-specialty           Wife         White        yFemale      18-21        United-States            LessThan50K  
+27796 31-50        Local-gov    Bachelors    Married-civ-spouse       Prof-specialty           Wife         White        Female       18-21        United-States            LessThan50K  
+error_attr: sex, error_value: yFemale
+
+28463 31-50        Local-gov    Bachelors    Married-civ-spouse       Prof-specialty           Husband      White        Mlae         75           United-States            MoreThan50K  
+28463 31-50        Local-gov    Bachelors    Married-civ-spouse       Prof-specialty           Husband      White        Male         75           United-States            MoreThan50K  
+error_attr: sex, error_value: Mlae
+
+28688 31-50        Private      Some-college Married-civ-spouse       Adm-clerical Wife         White        Feamle       35           United-States            LessThan50K  
+28688 31-50        Private      Some-college Married-civ-spouse       Adm-clerical Wife         White        Female       35           United-States            LessThan50K  
+error_attr: sex, error_value: Feamle
+
+28744 18-21        Private      HS-grad      Never-married            Craft-repair Not-in-family            White        Male         42           United-States            MoreThan50K  
+28744 31-50        Private      HS-grad      Never-married            Craft-repair Not-in-family            White        Male         42           United-States            MoreThan50K  
+error_attr: age, error_value: 18-21
+
+28951 31-50        Self-emp-inc Some-college Married-civ-spouse       Farming-fishing          Husband      White        Mael         50           United-States            LessThan50K  
+28951 31-50        Self-emp-inc Some-college Married-civ-spouse       Farming-fishing          Husband      White        Male         50           United-States            LessThan50K  
+error_attr: sex, error_value: Mael
+
+29146 31-50        Local-gov    Some-college Married-civ-spouse       Exec-managerial          Husband      White        Mle          40           United-States            LessThan50K  
+29146 31-50        Local-gov    Some-college Married-civ-spouse       Exec-managerial          Husband      White        Male         40           United-States            LessThan50K  
+error_attr: sex, error_value: Mle
+
+29199 31-50        Local-gov    Prof-school  Married-civ-spouse       Prof-specialty           Husband      White        Mlae         45           United-States            MoreThan50K  
+29199 31-50        Local-gov    Prof-school  Married-civ-spouse       Prof-specialty           Husband      White        Male         45           United-States            MoreThan50K  
+error_attr: sex, error_value: Mlae
+
+29210 31-50        Private      Some-college Married-civ-spouse       Exec-managerial          Husband      White        aMle         60           United-States            MoreThan50K  
+29210 31-50        Private      Some-college Married-civ-spouse       Exec-managerial          Husband      White        Male         60           United-States            MoreThan50K  
+error_attr: sex, error_value: aMle
+
+29256 31-50        Private      12th         Married-civ-spouse       Other-service            Wife         White        Femlae       10           United-States            LessThan50K  
+29256 31-50        Private      12th         Married-civ-spouse       Other-service            Wife         White        Female       10           United-States            LessThan50K  
+error_attr: sex, error_value: Femlae
+
+30080 31-50        Private      Some-college Married-civ-spouse       Craft-repair Husband      White        ale          45           United-States            LessThan50K  
+30080 31-50        Private      Some-college Married-civ-spouse       Craft-repair Husband      White        Male         45           United-States            LessThan50K  
+error_attr: sex, error_value: ale
+
+30319 31-50        Private      11th         Married-civ-spouse       Other-service            Wife         White        Feamle       40           United-States            LessThan50K  
+30319 31-50        Private      11th         Married-civ-spouse       Other-service            Wife         White        Female       40           United-States            LessThan50K  
+error_attr: sex, error_value: Feamle
+
+30408 31-50        Private      Some-college Married-civ-spouse       Sales        Husband      White        Mael         25           United-States            MoreThan50K  
+30408 31-50        Private      Some-college Married-civ-spouse       Sales        Husband      White        Male         25           United-States            MoreThan50K  
+error_attr: sex, error_value: Mael
+
+30556 31-50        Private      HS-grad      Married-civ-spouse       Machine-op-inspct        Wife         White        eFmale       40           United-States            MoreThan50K  
+30556 31-50        Private      HS-grad      Married-civ-spouse       Machine-op-inspct        Wife         White        Female       40           United-States            MoreThan50K  
+error_attr: sex, error_value: eFmale
+
+30846 31-50        Private      Some-college Married-civ-spouse       Adm-clerical Husband      White        Mle          40           United-States            LessThan50K  
+30846 31-50        Private      Some-college Married-civ-spouse       Adm-clerical Husband      White        Male         40           United-States            LessThan50K  
+error_attr: sex, error_value: Mle
+
+30858 31-50        Private      HS-grad      Married-civ-spouse       Machine-op-inspct        Wife         White        Fyemale      40           United-States            MoreThan50K  
+30858 31-50        Private      HS-grad      Married-civ-spouse       Machine-op-inspct        Wife         White        Female       40           United-States            MoreThan50K  
+error_attr: sex, error_value: Fyemale
+
+31389 31-50        State-gov    Some-college Married-civ-spouse       Craft-repair Husband      White        Malqe        40           ?            LessThan50K  
+31389 31-50        State-gov    Some-college Married-civ-spouse       Craft-repair Husband      White        Male         40           ?            LessThan50K  
+error_attr: sex, error_value: Malqe
+
+31614 31-50        Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         White        jFemale      40           United-States            MoreThan50K  
+31614 31-50        Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         White        Female       40           United-States            MoreThan50K  
+error_attr: sex, error_value: jFemale
+
+31769 31-50        Private      Some-college Never-married            Handlers-cleaners        Husband      Asian-Pac-Islander       Female       40           United-States            LessThan50K  
+31769 31-50        Private      Some-college Never-married            Handlers-cleaners        Own-child    Asian-Pac-Islander       Female       40           United-States            LessThan50K  
+error_attr: relationship, error_value: Husband
+
+32375 31-50        Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         White        Femahle      18-21        United-States            LessThan50K  
+32375 31-50        Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         White        Female       18-21        United-States            LessThan50K  
+error_attr: sex, error_value: Femahle
+
+32684 31-50        Private      Bachelors    Married-civ-spouse       Exec-managerial          Husband      Black        Maqle        35           United-States            MoreThan50K  
+32684 31-50        Private      Bachelors    Married-civ-spouse       Exec-managerial          Husband      Black        Male         35           United-States            MoreThan50K  
+error_attr: sex, error_value: Maqle
+
+32782 31-50        Private      Masters      Married-civ-spouse       Prof-specialty           Wife         White        Femle        45           United-States            LessThan50K  
+32782 31-50        Private      Masters      Married-civ-spouse       Prof-specialty           Wife         White        Female       45           United-States            LessThan50K  
+error_attr: sex, error_value: Femle
+
+33028 31-50        Private      Bachelors    Married-civ-spouse       Exec-managerial          Husband      White        Muale        40           United-States            MoreThan50K  
+33028 31-50        Private      Bachelors    Married-civ-spouse       Exec-managerial          Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: Muale
+
+33137 31-50        Private      Assoc-voc    Married-civ-spouse       Transport-moving         Wife         White        tFemale      25           United-States            LessThan50K  
+33137 31-50        Private      Assoc-voc    Married-civ-spouse       Transport-moving         Wife         White        Female       25           United-States            LessThan50K  
+error_attr: sex, error_value: tFemale
+
+33519 18-21        Private      Some-college Never-married            Prof-specialty           Not-in-family            White        Male         50           ?            MoreThan50K  
+33519 31-50        Private      Some-college Never-married            Prof-specialty           Not-in-family            White        Male         50           ?            MoreThan50K  
+error_attr: age, error_value: 18-21
+
+33686 31-50        ?            Masters      Married-civ-spouse       ?            Wife         White        Fmale        1            United-States            LessThan50K  
+33686 31-50        ?            Masters      Married-civ-spouse       ?            Wife         White        Female       1            United-States            LessThan50K  
+error_attr: sex, error_value: Fmale
+
+34225 31-50        Private      11th         Married-civ-spouse       Other-service            Wife         White        Femalue      36           United-States            LessThan50K  
+34225 31-50        Private      11th         Married-civ-spouse       Other-service            Wife         White        Female       36           United-States            LessThan50K  
+error_attr: sex, error_value: Femalue
+
+34656 31-50        Private      Some-college Married-civ-spouse       Exec-managerial          Husband      White        Mhale        60           United-States            MoreThan50K  
+34656 31-50        Private      Some-college Married-civ-spouse       Exec-managerial          Husband      White        Male         60           United-States            MoreThan50K  
+error_attr: sex, error_value: Mhale
+
+34769 31-50        Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         White        mFemale      40           United-States            LessThan50K  
+34769 31-50        Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         White        Female       40           United-States            LessThan50K  
+error_attr: sex, error_value: mFemale
+
+34796 31-50        Local-gov    Prof-school  Married-civ-spouse       Protective-serv          Husband      White        Malce        40           United-States            MoreThan50K  
+34796 31-50        Local-gov    Prof-school  Married-civ-spouse       Protective-serv          Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: Malce
+
+35268 31-50        Private      Bachelors    Married-civ-spouse       Tech-support Husband      White        iMale        60           United-States            MoreThan50K  
+35268 31-50        Private      Bachelors    Married-civ-spouse       Tech-support Husband      White        Male         60           United-States            MoreThan50K  
+error_attr: sex, error_value: iMale
+
+35631 31-50        Self-emp-not-inc         Bachelors    Married-civ-spouse       Sales        Husband      White        aMle         40           United-States            MoreThan50K  
+35631 31-50        Self-emp-not-inc         Bachelors    Married-civ-spouse       Sales        Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: aMle
+
+35664 31-50        Private      Bachelors    Married-civ-spouse       Prof-specialty           Husband      White        ale          40           United-States            MoreThan50K  
+35664 31-50        Private      Bachelors    Married-civ-spouse       Prof-specialty           Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: ale
+
+36068 31-50        Private      Masters      Married-civ-spouse       Adm-clerical Wife         White        Fmale        38           United-States            MoreThan50K  
+36068 31-50        Private      Masters      Married-civ-spouse       Adm-clerical Wife         White        Female       38           United-States            MoreThan50K  
+error_attr: sex, error_value: Fmale
+
+36192 31-50        Private      Masters      Married-civ-spouse       Prof-specialty           Wife         White        Femael       40           United-States            MoreThan50K  
+36192 31-50        Private      Masters      Married-civ-spouse       Prof-specialty           Wife         White        Female       40           United-States            MoreThan50K  
+error_attr: sex, error_value: Femael
+
+36295 31-50        Private      Some-college Married-civ-spouse       Adm-clerical Wife         White        Femxale      40           United-States            LessThan50K  
+36295 31-50        Private      Some-college Married-civ-spouse       Adm-clerical Wife         White        Female       40           United-States            LessThan50K  
+error_attr: sex, error_value: Femxale
+
+36303 31-50        Private      HS-grad      Married-civ-spouse       Other-service            Wife         White        Fewmale      38           United-States            LessThan50K  
+36303 31-50        Private      HS-grad      Married-civ-spouse       Other-service            Wife         White        Female       38           United-States            LessThan50K  
+error_attr: sex, error_value: Fewmale
+
+36408 31-50        Private      Some-college Married-civ-spouse       Exec-managerial          Wife         White        emale        50           United-States            LessThan50K  
+36408 31-50        Private      Some-college Married-civ-spouse       Exec-managerial          Wife         White        Female       50           United-States            LessThan50K  
+error_attr: sex, error_value: emale
+
+36460 31-50        Self-emp-not-inc         Some-college Married-civ-spouse       Other-service            Wife         White        Femae        52           United-States            LessThan50K  
+36460 31-50        Self-emp-not-inc         Some-college Married-civ-spouse       Other-service            Wife         White        Female       52           United-States            LessThan50K  
+error_attr: sex, error_value: Femae
+
+36673 31-50        State-gov    HS-grad      Married-civ-spouse       Craft-repair Wife         Black        Femle        40           United-States            MoreThan50K  
+36673 31-50        State-gov    HS-grad      Married-civ-spouse       Craft-repair Wife         Black        Female       40           United-States            MoreThan50K  
+error_attr: sex, error_value: Femle
+
+36747 31-50        Private      Some-college Married-civ-spouse       Sales        Wife         White        Femlae       40           United-States            LessThan50K  
+36747 31-50        Private      Some-college Married-civ-spouse       Sales        Wife         White        Female       40           United-States            LessThan50K  
+error_attr: sex, error_value: Femlae
+
+36761 31-50        Private      Some-college Married-civ-spouse       Exec-managerial          Husband      White        Mael         65           United-States            MoreThan50K  
+36761 31-50        Private      Some-college Married-civ-spouse       Exec-managerial          Husband      White        Male         65           United-States            MoreThan50K  
+error_attr: sex, error_value: Mael
+
+36774 31-50        Private      Masters      Married-civ-spouse       Prof-specialty           Husband      White        Mael         50           United-States            MoreThan50K  
+36774 31-50        Private      Masters      Married-civ-spouse       Prof-specialty           Husband      White        Male         50           United-States            MoreThan50K  
+error_attr: sex, error_value: Mael
+
+36817 31-50        Private      Some-college Married-civ-spouse       Exec-managerial          Husband      White        ale          40           United-States            MoreThan50K  
+36817 31-50        Private      Some-college Married-civ-spouse       Exec-managerial          Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: ale
+
+36902 31-50        State-gov    Some-college Married-civ-spouse       Craft-repair Husband      White        Mae          40           United-States            MoreThan50K  
+36902 31-50        State-gov    Some-college Married-civ-spouse       Craft-repair Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: Mae
+
+36918 31-50        Local-gov    Bachelors    Married-civ-spouse       Prof-specialty           Wife         White        aFemale      50           United-States            MoreThan50K  
+36918 31-50        Local-gov    Bachelors    Married-civ-spouse       Prof-specialty           Wife         White        Female       50           United-States            MoreThan50K  
+error_attr: sex, error_value: aFemale
+
+37189 31-50        Private      11th         Married-civ-spouse       Other-service            Wife         White        Femael       40           United-States            LessThan50K  
+37189 31-50        Private      11th         Married-civ-spouse       Other-service            Wife         White        Female       40           United-States            LessThan50K  
+error_attr: sex, error_value: Femael
+
+37243 31-50        Private      Masters      Married-civ-spouse       Exec-managerial          Husband      White        Mael         40           United-States            MoreThan50K  
+37243 31-50        Private      Masters      Married-civ-spouse       Exec-managerial          Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: Mael
+
+37309 31-50        Private      Assoc-acdm   Married-civ-spouse       Prof-specialty           Wife         White        Faemale      30           United-States            MoreThan50K  
+37309 31-50        Private      Assoc-acdm   Married-civ-spouse       Prof-specialty           Wife         White        Female       30           United-States            MoreThan50K  
+error_attr: sex, error_value: Faemale
+
+37376 31-50        Private      Bachelors    Married-civ-spouse       Exec-managerial          Husband      White        Malke        75           United-States            MoreThan50K  
+37376 31-50        Private      Bachelors    Married-civ-spouse       Exec-managerial          Husband      White        Male         75           United-States            MoreThan50K  
+error_attr: sex, error_value: Malke
+
+38732 31-50        Private      HS-grad      Married-civ-spouse       Sales        Wife         White        Femlae       15           United-States            LessThan50K  
+38732 31-50        Private      HS-grad      Married-civ-spouse       Sales        Wife         White        Female       15           United-States            LessThan50K  
+error_attr: sex, error_value: Femlae
+
+39015 31-50        Private      Some-college Married-civ-spouse       Sales        Husband      White        Mael         40           United-States            MoreThan50K  
+39015 31-50        Private      Some-college Married-civ-spouse       Sales        Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: Mael
+
+39119 >50          Private      HS-grad      Married-civ-spouse       Transport-moving         Husband      White        Mlae         40           United-States            LessThan50K  
+39119 >50          Private      HS-grad      Married-civ-spouse       Transport-moving         Husband      White        Male         40           United-States            LessThan50K  
+error_attr: sex, error_value: Mlae
+
+39125 >50          Private      Some-college Married-civ-spouse       Exec-managerial          Husband      White        Female       30           United-States            MoreThan50K  
+39125 >50          Private      Some-college Married-civ-spouse       Exec-managerial          Wife         White        Female       30           United-States            MoreThan50K  
+error_attr: relationship, error_value: Husband
+
+39145 >50          Private      Some-college Married-civ-spouse       Adm-clerical Husband      White        Mael         38           United-States            LessThan50K  
+39145 >50          Private      Some-college Married-civ-spouse       Adm-clerical Husband      White        Male         38           United-States            LessThan50K  
+error_attr: sex, error_value: Mael
+
+39157 >50          ***?         HS-grad      Widowed      ?            Not-in-family            Amer-Indian-Eskimo       Female       18-21        United-States            LessThan50K  
+39157 >50          ?            HS-grad      Widowed      ?            Not-in-family            Amer-Indian-Eskimo       Female       18-21        United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+39206 >50          Private      Doctorate    Widowed      Prof-specialty           Husband      White        Female       60           United-States            MoreThan50K  
+39206 >50          Private      Doctorate    Widowed      Prof-specialty           Not-in-family            White        Female       60           United-States            MoreThan50K  
+error_attr: relationship, error_value: Husband
+
+39299 >50          Private      Bachelors    Maruried-civ-spouse      Craft-repair Husband      White        Male         40           ?            MoreThan50K  
+39299 >50          Private      Bachelors    Married-civ-spouse       Craft-repair Husband      White        Male         40           ?            MoreThan50K  
+error_attr: maritalstatus, error_value: Maruried-civ-spouse
+
+39351 >50          Local-gov    HS-grad      Marrid-civ-spouse        Protective-serv          Husband      White        Male         70           United-States            LessThan50K  
+39351 >50          Local-gov    HS-grad      Married-civ-spouse       Protective-serv          Husband      White        Male         70           United-States            LessThan50K  
+error_attr: maritalstatus, error_value: Marrid-civ-spouse
+
+39470 >50          ***?         Some-college Divorced     ?            Unmarried    White        Female       40           United-States            LessThan50K  
+39470 >50          ?            Some-college Divorced     ?            Unmarried    White        Female       40           United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+39478 >50          Private      Some-college Married-civ-spouse       Transport-moving         Husband      White        Malye        40           United-States            LessThan50K  
+39478 >50          Private      Some-college Married-civ-spouse       Transport-moving         Husband      White        Male         40           United-States            LessThan50K  
+error_attr: sex, error_value: Malye
+
+39520 >50          Self-emp-not-inc         Masters      Married-civ-spouse       Exec-managerial          Husband      White        Macle        42           United-States            MoreThan50K  
+39520 >50          Self-emp-not-inc         Masters      Married-civ-spouse       Exec-managerial          Husband      White        Male         42           United-States            MoreThan50K  
+error_attr: sex, error_value: Macle
+
+39562 >50          Private      Some-college Married-civ-spouse       Adm-clerical Wife         White        Femae        35           United-States            LessThan50K  
+39562 >50          Private      Some-college Married-civ-spouse       Adm-clerical Wife         White        Female       35           United-States            LessThan50K  
+error_attr: sex, error_value: Femae
+
+39609 >50          Private      HS-grad      Married-civ-spouse       Transport-moving         Husband      White        Makle        40           United-States            MoreThan50K  
+39609 >50          Private      HS-grad      Married-civ-spouse       Transport-moving         Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: Makle
+
+39693 >50          Private      Some-college Divorced     Adm-clerical Husband      White        Female       40           United-States            MoreThan50K  
+39693 >50          Private      Some-college Divorced     Adm-clerical Unmarried    White        Female       40           United-States            MoreThan50K  
+error_attr: relationship, error_value: Husband
+
+39768 >50          Private      Prof-school  Never-married            Prof-specialty           Husband      White        Female       50           United-States            MoreThan50K  
+39768 >50          Private      Prof-school  Never-married            Prof-specialty           Not-in-family            White        Female       50           United-States            MoreThan50K  
+error_attr: relationship, error_value: Husband
+
+39850 >50          Self-emp-inc Assoc-voc    Never-married            Adm-clerical Husband      White        Female       40           United-States            LessThan50K  
+39850 >50          Self-emp-inc Assoc-voc    Never-married            Adm-clerical Own-child    White        Female       40           United-States            LessThan50K  
+error_attr: relationship, error_value: Husband
+
+39884 >50          Private      10th         Separated    Machine-op-inspct        Husband      Black        Female       40           United-States            LessThan50K  
+39884 >50          Private      10th         Separated    Machine-op-inspct        Unmarried    Black        Female       40           United-States            LessThan50K  
+error_attr: relationship, error_value: Husband
+
+39922 >50          Private      12th         Married-civ-spouse       Machine-op-inspct        Husband      White        Mael         40           United-States            LessThan50K  
+39922 >50          Private      12th         Married-civ-spouse       Machine-op-inspct        Husband      White        Male         40           United-States            LessThan50K  
+error_attr: sex, error_value: Mael
+
+39982 >50          ***?         Bachelors    Widowed      ?            Not-in-family            White        Female       8            United-States            LessThan50K  
+39982 >50          ?            Bachelors    Widowed      ?            Not-in-family            White        Female       8            United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+39990 >50          State-gov    Bachelors    Married-civ-spoause      Protective-serv          Husband      White        Male         48           United-States            MoreThan50K  
+39990 >50          State-gov    Bachelors    Married-civ-spouse       Protective-serv          Husband      White        Male         48           United-States            MoreThan50K  
+error_attr: maritalstatus, error_value: Married-civ-spoause
+
+40084 18-21        Federal-gov  HS-grad      Never-married            Adm-clerical Not-in-family            White        Male         48           United-States            MoreThan50K  
+40084 >50          Federal-gov  HS-grad      Never-married            Adm-clerical Not-in-family            White        Male         48           United-States            MoreThan50K  
+error_attr: age, error_value: 18-21
+
+40117 >50          ***?         HS-grad      Divorced     ?            Unmarried    White        Female       38           United-States            LessThan50K  
+40117 >50          ?            HS-grad      Divorced     ?            Unmarried    White        Female       38           United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+40142 >50          Private      7th-8th      Married-civ-spuose       Machine-op-inspct        Husband      White        Male         40           United-States            LessThan50K  
+40142 >50          Private      7th-8th      Married-civ-spouse       Machine-op-inspct        Husband      White        Male         40           United-States            LessThan50K  
+error_attr: maritalstatus, error_value: Married-civ-spuose
+
+40168 >50          Private      HS-grad      Married-civ-spouse       Craft-repair Husband      White        Mle          40           United-States            MoreThan50K  
+40168 >50          Private      HS-grad      Married-civ-spouse       Craft-repair Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: Mle
+
+40193 >50          Private      Bachelors    Married-civ-spouse       Exec-managerial          Husband      White        aMle         50           United-States            MoreThan50K  
+40193 >50          Private      Bachelors    Married-civ-spouse       Exec-managerial          Husband      White        Male         50           United-States            MoreThan50K  
+error_attr: sex, error_value: aMle
+
+40372 >50          Private      1st-4th      Married-civ-spouse       Exec-managerial          Husband      White        ale          50           United-States            MoreThan50K  
+40372 >50          Private      1st-4th      Married-civ-spouse       Exec-managerial          Husband      White        Male         50           United-States            MoreThan50K  
+error_attr: sex, error_value: ale
+
+40382 >50          Self-emp-inc Bachelors    Married-civ-spuse        Exec-managerial          Husband      White        Male         60           United-States            LessThan50K  
+40382 >50          Self-emp-inc Bachelors    Married-civ-spouse       Exec-managerial          Husband      White        Male         60           United-States            LessThan50K  
+error_attr: maritalstatus, error_value: Married-civ-spuse
+
+40396 >50          Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         White        fFemale      38           United-States            LessThan50K  
+40396 >50          Private      HS-grad      Married-civ-spouse       Adm-clerical Wife         White        Female       38           United-States            LessThan50K  
+error_attr: sex, error_value: fFemale
+
+40508 >50          Private      HS-grad      aMrried-civ-spouse       Machine-op-inspct        Husband      White        Male         40           United-States            LessThan50K  
+40508 >50          Private      HS-grad      Married-civ-spouse       Machine-op-inspct        Husband      White        Male         40           United-States            LessThan50K  
+error_attr: maritalstatus, error_value: aMrried-civ-spouse
+
+40706 >50          Local-gov    Some-college Married-civ-spouse       Protective-serv          Husband      White        Mlae         40           United-States            MoreThan50K  
+40706 >50          Local-gov    Some-college Married-civ-spouse       Protective-serv          Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: Mlae
+
+40725 >50          Private      HS-grad      Married-civ-spouse       Sales        Wife         White        eFmale       40           United-States            LessThan50K  
+40725 >50          Private      HS-grad      Married-civ-spouse       Sales        Wife         White        Female       40           United-States            LessThan50K  
+error_attr: sex, error_value: eFmale
+
+40869 >50          Self-emp-inc HS-grad      Married-civ-spouse       Exec-managerial          Husband      White        aMle         45           United-States            MoreThan50K  
+40869 >50          Self-emp-inc HS-grad      Married-civ-spouse       Exec-managerial          Husband      White        Male         45           United-States            MoreThan50K  
+error_attr: sex, error_value: aMle
+
+40899 >50          Private      HS-grad      Married-civ-spouse       Machine-op-inspct        Husband      White        ale          38           United-States            LessThan50K  
+40899 >50          Private      HS-grad      Married-civ-spouse       Machine-op-inspct        Husband      White        Male         38           United-States            LessThan50K  
+error_attr: sex, error_value: ale
+
+41086 >50          ***?         Bachelors    Married-civ-spouse       ?            Husband      White        Male         30           United-States            MoreThan50K  
+41086 >50          ?            Bachelors    Married-civ-spouse       ?            Husband      White        Male         30           United-States            MoreThan50K  
+error_attr: workclass, error_value: ***?
+
+41136 >50          Self-emp-not-inc         Masters      Married-civ-spouse***    Exec-managerial          Husband      White        Male         40           United-States            MoreThan50K  
+41136 >50          Self-emp-not-inc         Masters      Married-civ-spouse       Exec-managerial          Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: maritalstatus, error_value: Married-civ-spouse***
+
+41163 >50          Local-gov    Doctorate    Divorced     Prof-specialty           Husband      White        Female       40           United-States            MoreThan50K  
+41163 >50          Local-gov    Doctorate    Divorced     Prof-specialty           Not-in-family            White        Female       40           United-States            MoreThan50K  
+error_attr: relationship, error_value: Husband
+
+41195 >50          Private      11th         Mrried-civ-spouse        Craft-repair Husband      White        Male         45           United-States            LessThan50K  
+41195 >50          Private      11th         Married-civ-spouse       Craft-repair Husband      White        Male         45           United-States            LessThan50K  
+error_attr: maritalstatus, error_value: Mrried-civ-spouse
+
+41266 >50          Private      HS-grad      Divorced     Exec-managerial          Husband      Black        Female       40           United-States            LessThan50K  
+41266 >50          Private      HS-grad      Divorced     Exec-managerial          Not-in-family            Black        Female       40           United-States            LessThan50K  
+error_attr: relationship, error_value: Husband
+
+41353 >50          Private      Some-college Married-civ-spouse       Prof-specialty           Wife         White        Fmale        24           United-States            LessThan50K  
+41353 >50          Private      Some-college Married-civ-spouse       Prof-specialty           Wife         White        Female       24           United-States            LessThan50K  
+error_attr: sex, error_value: Fmale
+
+41362 >50          Private      Some-college Married-civg-spouse      Transport-moving         Husband      White        Male         50           United-States            LessThan50K  
+41362 >50          Private      Some-college Married-civ-spouse       Transport-moving         Husband      White        Male         50           United-States            LessThan50K  
+error_attr: maritalstatus, error_value: Married-civg-spouse
+
+41374 >50          Self-emp-not-inc         Some-college Married-civ-spdouse      Sales        Husband      White        Male         55           United-States            MoreThan50K  
+41374 >50          Self-emp-not-inc         Some-college Married-civ-spouse       Sales        Husband      White        Male         55           United-States            MoreThan50K  
+error_attr: maritalstatus, error_value: Married-civ-spdouse
+
+41385 >50          State-gov    Some-college Married-civ-spouse       Exec-managerial          Husband      White        ale          40           United-States            MoreThan50K  
+41385 >50          State-gov    Some-college Married-civ-spouse       Exec-managerial          Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: ale
+
+41442 >50          ***?         5th-6th      Married-civ-spouse       ?            Husband      White        Male         40           United-States            LessThan50K  
+41442 >50          ?            5th-6th      Married-civ-spouse       ?            Husband      White        Male         40           United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+41449 >50          Self-emp-not-inc         Some-college Married-civ-spouse       Farming-fishing          Husband      White        Mlae         45           United-States            MoreThan50K  
+41449 >50          Self-emp-not-inc         Some-college Married-civ-spouse       Farming-fishing          Husband      White        Male         45           United-States            MoreThan50K  
+error_attr: sex, error_value: Mlae
+
+41517 >50          Private      Some-college Married-civ-spouse       Adm-clerical Husband      White        ale          40           United-States            MoreThan50K  
+41517 >50          Private      Some-college Married-civ-spouse       Adm-clerical Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: ale
+
+41560 >50          ***?         Some-college Married-civ-spouse       ?            Husband      Asian-Pac-Islander       Male         60           South        MoreThan50K  
+41560 >50          ?            Some-college Married-civ-spouse       ?            Husband      Asian-Pac-Islander       Male         60           South        MoreThan50K  
+error_attr: workclass, error_value: ***?
+
+41576 >50          Private      HS-grad      Married-civ-spouse       Farming-fishing          Husband      White        wMale        40           United-States            LessThan50K  
+41576 >50          Private      HS-grad      Married-civ-spouse       Farming-fishing          Husband      White        Male         40           United-States            LessThan50K  
+error_attr: sex, error_value: wMale
+
+41662 >50          ***?         HS-grad      Divorced     ?            Other-relative           White        Male         45           United-States            LessThan50K  
+41662 >50          ?            HS-grad      Divorced     ?            Other-relative           White        Male         45           United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+41679 >50          Self-emp-inc Doctorate    Married-civ-spouse       Prof-specialty           Husband      White        Mae          50           ?            MoreThan50K  
+41679 >50          Self-emp-inc Doctorate    Married-civ-spouse       Prof-specialty           Husband      White        Male         50           ?            MoreThan50K  
+error_attr: sex, error_value: Mae
+
+41704 >50          ***?         HS-grad      Widowed      ?            Own-child    White        Female       40           United-States            LessThan50K  
+41704 >50          ?            HS-grad      Widowed      ?            Own-child    White        Female       40           United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+41739 >50          Private      HS-grad      Married-civspouse        Machine-op-inspct        Husband      White        Male         40           Poland       MoreThan50K  
+41739 >50          Private      HS-grad      Married-civ-spouse       Machine-op-inspct        Husband      White        Male         40           Poland       MoreThan50K  
+error_attr: maritalstatus, error_value: Married-civspouse
+
+41758 >50          Local-gov    HS-grad      Married-civ-spouse       Farming-fishing          Husband      White        Mael         40           United-States            LessThan50K  
+41758 >50          Local-gov    HS-grad      Married-civ-spouse       Farming-fishing          Husband      White        Male         40           United-States            LessThan50K  
+error_attr: sex, error_value: Mael
+
+41791 >50          Self-emp-not-inc         Some-college Maried-civ-spouse        Transport-moving         Husband      White        Male         30           United-States            LessThan50K  
+41791 >50          Self-emp-not-inc         Some-college Married-civ-spouse       Transport-moving         Husband      White        Male         30           United-States            LessThan50K  
+error_attr: maritalstatus, error_value: Maried-civ-spouse
+
+41819 >50          ***?         HS-grad      Divorced     ?            Not-in-family            White        Female       25           United-States            LessThan50K  
+41819 >50          ?            HS-grad      Divorced     ?            Not-in-family            White        Female       25           United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+41861 >50          Private      Bachelors    Married-civv-spouse      Sales        Husband      White        Male         40           United-States            MoreThan50K  
+41861 >50          Private      Bachelors    Married-civ-spouse       Sales        Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: maritalstatus, error_value: Married-civv-spouse
+
+42045 >50          Self-emp-not-inc         9th          Married-civ-spouse       Sales        Husband      White        Mlae         58           United-States            LessThan50K  
+42045 >50          Self-emp-not-inc         9th          Married-civ-spouse       Sales        Husband      White        Male         58           United-States            LessThan50K  
+error_attr: sex, error_value: Mlae
+
+42114 >50          ***?         HS-grad      Divorced     ?            Not-in-family            White        Male         40           United-States            LessThan50K  
+42114 >50          ?            HS-grad      Divorced     ?            Not-in-family            White        Male         40           United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+42235 >50          Private      HS-grad      Married-civ-spoouse      Craft-repair Husband      White        Male         40           United-States            LessThan50K  
+42235 >50          Private      HS-grad      Married-civ-spouse       Craft-repair Husband      White        Male         40           United-States            LessThan50K  
+error_attr: maritalstatus, error_value: Married-civ-spoouse
+
+42485 >50          Private      10th         Married-civ-spouse       Machine-op-inspct        Husband      White        Mael         40           United-States            LessThan50K  
+42485 >50          Private      10th         Married-civ-spouse       Machine-op-inspct        Husband      White        Male         40           United-States            LessThan50K  
+error_attr: sex, error_value: Mael
+
+42498 >50          ?            Bachelors    Married-civ-spouse       ***?         Husband      White        Male         40           United-States            LessThan50K  
+42498 >50          ?            Bachelors    Married-civ-spouse       ?            Husband      White        Male         40           United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+42534 >50          ?            9th          Never-married            ***?         Own-child    White        Female       45           United-States            LessThan50K  
+42534 >50          ?            9th          Never-married            ?            Own-child    White        Female       45           United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+42535 >50          ?            HS-grad      Never-married            ***?         Not-in-family            White        Male         40           United-States            MoreThan50K  
+42535 >50          ?            HS-grad      Never-married            ?            Not-in-family            White        Male         40           United-States            MoreThan50K  
+error_attr: occupation, error_value: ***?
+
+42536 >50          ?            12th         Widowed      ***?         Not-in-family            White        Male         30           United-States            LessThan50K  
+42536 >50          ?            12th         Widowed      ?            Not-in-family            White        Male         30           United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+42545 >50          ?            HS-grad      Married-civ-spouse       ***?         Husband      White        Male         50           United-States            MoreThan50K  
+42545 >50          ?            HS-grad      Married-civ-spouse       ?            Husband      White        Male         50           United-States            MoreThan50K  
+error_attr: occupation, error_value: ***?
+
+42548 >50          Private      Bachelors    Marriedc-iv-spouse       Exec-managerial          Husband      White        Male         45           United-States            MoreThan50K  
+42548 >50          Private      Bachelors    Married-civ-spouse       Exec-managerial          Husband      White        Male         45           United-States            MoreThan50K  
+error_attr: maritalstatus, error_value: Marriedc-iv-spouse
+
+42553 >50          ?            Assoc-acdm   Married-spouse-absent    ***?         Not-in-family            White        Female       5            United-States            LessThan50K  
+42553 >50          ?            Assoc-acdm   Married-spouse-absent    ?            Not-in-family            White        Female       5            United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+42554 >50          ?            7th-8th      Divorced     ***?         Unmarried    White        Female       40           United-States            LessThan50K  
+42554 >50          ?            7th-8th      Divorced     ?            Unmarried    White        Female       40           United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+42614 >50          Private      Bachelors    Married-civ-spouse       Prof-specialty           Husband      White        Mael         40           United-States            MoreThan50K  
+42614 >50          Private      Bachelors    Married-civ-spouse       Prof-specialty           Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: Mael
+
+42644 >50          ?            Bachelors    Never-married            ***?         Unmarried    White        Female       18-21        United-States            LessThan50K  
+42644 >50          ?            Bachelors    Never-married            ?            Unmarried    White        Female       18-21        United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+42705 >50          Private      Some-college Married-civspouse        Exec-managerial          Husband      White        Male         54           United-States            MoreThan50K  
+42705 >50          Private      Some-college Married-civ-spouse       Exec-managerial          Husband      White        Male         54           United-States            MoreThan50K  
+error_attr: maritalstatus, error_value: Married-civspouse
+
+42726 >50          Self-emp-not-inc         Bachelors    Married-civ-spouse       Craft-repair Husband      White        ale          30           ?            LessThan50K  
+42726 >50          Self-emp-not-inc         Bachelors    Married-civ-spouse       Craft-repair Husband      White        Male         30           ?            LessThan50K  
+error_attr: sex, error_value: ale
+
+42733 >50          ?            HS-grad      Divorced     ***?         Not-in-family            Black        Female       40           United-States            LessThan50K  
+42733 >50          ?            HS-grad      Divorced     ?            Not-in-family            Black        Female       40           United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+42757 >50          ?            Some-college Widowed      ***?         Not-in-family            White        Female       35           United-States            LessThan50K  
+42757 >50          ?            Some-college Widowed      ?            Not-in-family            White        Female       35           United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+42783 >50          Self-emp-not-inc         Bachelors    Married-civ-spouse       Prof-specialty           Husband      White        Mlae         45           United-States            LessThan50K  
+42783 >50          Self-emp-not-inc         Bachelors    Married-civ-spouse       Prof-specialty           Husband      White        Male         45           United-States            LessThan50K  
+error_attr: sex, error_value: Mlae
+
+42787 >50          ?            Masters      Married-civ-spouse       ***?         Husband      White        Male         40           United-States            MoreThan50K  
+42787 >50          ?            Masters      Married-civ-spouse       ?            Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: occupation, error_value: ***?
+
+42821 >50          ?            HS-grad      Married-civ-spouse       ***?         Husband      White        Male         25           United-States            LessThan50K  
+42821 >50          ?            HS-grad      Married-civ-spouse       ?            Husband      White        Male         25           United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+42835 >50          ?            Some-college Married-civ-spouse       ***?         Husband      White        Male         40           Nicaragua    LessThan50K  
+42835 >50          ?            Some-college Married-civ-spouse       ?            Husband      White        Male         40           Nicaragua    LessThan50K  
+error_attr: occupation, error_value: ***?
+
+42837 >50          ?            Some-college Widowed      ***?         Not-in-family            Black        Female       40           United-States            LessThan50K  
+42837 >50          ?            Some-college Widowed      ?            Not-in-family            Black        Female       40           United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+42838 >50          ?            Masters      Never-married            ***?         Not-in-family            White        Female       50           United-States            MoreThan50K  
+42838 >50          ?            Masters      Never-married            ?            Not-in-family            White        Female       50           United-States            MoreThan50K  
+error_attr: occupation, error_value: ***?
+
+42851 >50          ?            HS-grad      Married-civ-spouse       ***?         Husband      White        Male         40           United-States            LessThan50K  
+42851 >50          ?            HS-grad      Married-civ-spouse       ?            Husband      White        Male         40           United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+42858 >50          ?            HS-grad      Divorced     ***?         Not-in-family            White        Male         10           United-States            LessThan50K  
+42858 >50          ?            HS-grad      Divorced     ?            Not-in-family            White        Male         10           United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+42924 >50          Private      HS-grad      Married-civ-spouse       Transport-moving         Husband      White        ale          40           United-States            LessThan50K  
+42924 >50          Private      HS-grad      Married-civ-spouse       Transport-moving         Husband      White        Male         40           United-States            LessThan50K  
+error_attr: sex, error_value: ale
+
+42945 >50          ?            Some-college Divorced     ***?         Unmarried    White        Female       50           United-States            MoreThan50K  
+42945 >50          ?            Some-college Divorced     ?            Unmarried    White        Female       50           United-States            MoreThan50K  
+error_attr: occupation, error_value: ***?
+
+42995 >50          Self-emp-inc 12th         Married-civ-spouse       Exec-managerial          Husband      White        Mael         40           United-States            LessThan50K  
+42995 >50          Self-emp-inc 12th         Married-civ-spouse       Exec-managerial          Husband      White        Male         40           United-States            LessThan50K  
+error_attr: sex, error_value: Mael
+
+43048 >50          ?            Some-college Never-married            ***?         Not-in-family            Black        Female       40           United-States            LessThan50K  
+43048 >50          ?            Some-college Never-married            ?            Not-in-family            Black        Female       40           United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+43090 >50          ?            HS-grad      Divorced     ***?         Not-in-family            White        Male         40           United-States            LessThan50K  
+43090 >50          ?            HS-grad      Divorced     ?            Not-in-family            White        Male         40           United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+43115 >50          ?            HS-grad      Divorced     ***?         Own-child    White        Male         40           United-States            LessThan50K  
+43115 >50          ?            HS-grad      Divorced     ?            Own-child    White        Male         40           United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+43133 >50          Private      Bachelors    Married-civ-spouse       Adm-clerical Husband      White        aMle         40           United-States            MoreThan50K  
+43133 >50          Private      Bachelors    Married-civ-spouse       Adm-clerical Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: aMle
+
+43144 >50          ?            Some-college Divorced     ***?         Not-in-family            White        Female       18-21        United-States            LessThan50K  
+43144 >50          ?            Some-college Divorced     ?            Not-in-family            White        Female       18-21        United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+43152 >50          ?            Assoc-acdm   Married-civ-spouse       ***?         Husband      White        Male         18-21        United-States            LessThan50K  
+43152 >50          ?            Assoc-acdm   Married-civ-spouse       ?            Husband      White        Male         18-21        United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+43153 >50          ?            10th         Divorced     ***?         Not-in-family            White        Female       40           United-States            LessThan50K  
+43153 >50          ?            10th         Divorced     ?            Not-in-family            White        Female       40           United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+43169 >50          ?            Preschool    Separated    ***?         Not-in-family            White        Male         40           United-States            LessThan50K  
+43169 >50          ?            Preschool    Separated    ?            Not-in-family            White        Male         40           United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+43202 >50          ?            9th          Married-civ-spouse       ***?         Husband      White        Male         40           United-States            LessThan50K  
+43202 >50          ?            9th          Married-civ-spouse       ?            Husband      White        Male         40           United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+43206 >50          ?            10th         Married-civ-spouse       ***?         Husband      White        Male         40           United-States            LessThan50K  
+43206 >50          ?            10th         Married-civ-spouse       ?            Husband      White        Male         40           United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+43221 >50          ?            Some-college Married-civ-spouse       ***?         Husband      White        Male         32           United-States            LessThan50K  
+43221 >50          ?            Some-college Married-civ-spouse       ?            Husband      White        Male         32           United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+43237 >50          ?            Assoc-voc    Married-civ-spouse       ***?         Wife         White        Female       5            United-States            LessThan50K  
+43237 >50          ?            Assoc-voc    Married-civ-spouse       ?            Wife         White        Female       5            United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+43253 >50          ?            Bachelors    Married-civ-spouse       ***?         Husband      White        Male         40           United-States            MoreThan50K  
+43253 >50          ?            Bachelors    Married-civ-spouse       ?            Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: occupation, error_value: ***?
+
+43275 >50          ?            Some-college Married-civ-spouse       ***?         Wife         White        Female       40           United-States            MoreThan50K  
+43275 >50          ?            Some-college Married-civ-spouse       ?            Wife         White        Female       40           United-States            MoreThan50K  
+error_attr: occupation, error_value: ***?
+
+43292 >50          ?            7th-8th      Married-civ-spouse       ***?         Other-relative           White        Male         45           Dominican-Republic       LessThan50K  
+43292 >50          ?            7th-8th      Married-civ-spouse       ?            Other-relative           White        Male         45           Dominican-Republic       LessThan50K  
+error_attr: occupation, error_value: ***?
+
+43314 >50          ?            Bachelors    Married-civ-spouse       ***?         Wife         White        Female       45           United-States            MoreThan50K  
+43314 >50          ?            Bachelors    Married-civ-spouse       ?            Wife         White        Female       45           United-States            MoreThan50K  
+error_attr: occupation, error_value: ***?
+
+43342 >50          Private      Some-college Married-civ-spouse       Transport-moving         Husband      White        aMle         50           United-States            LessThan50K  
+43342 >50          Private      Some-college Married-civ-spouse       Transport-moving         Husband      White        Male         50           United-States            LessThan50K  
+error_attr: sex, error_value: aMle
+
+43345 >50          ?            Bachelors    Never-married            ***?         Not-in-family            Black        Female       35           United-States            LessThan50K  
+43345 >50          ?            Bachelors    Never-married            ?            Not-in-family            Black        Female       35           United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+43350 >50          Private      12th         Msarried-civ-spouse      Craft-repair Husband      White        Male         40           United-States            LessThan50K  
+43350 >50          Private      12th         Married-civ-spouse       Craft-repair Husband      White        Male         40           United-States            LessThan50K  
+error_attr: maritalstatus, error_value: Msarried-civ-spouse
+
+43356 >50          ?            Assoc-voc    Widowed      ***?         Unmarried    White        Female       38           United-States            LessThan50K  
+43356 >50          ?            Assoc-voc    Widowed      ?            Unmarried    White        Female       38           United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+43417 >50          ***?         10th         Separated    ?            Not-in-family            White        Male         30           United-States            LessThan50K  
+43417 >50          ?            10th         Separated    ?            Not-in-family            White        Male         30           United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+43438 >50          ?            Bachelors    Married-civ-spouse       ***?         Husband      White        Male         80           United-States            MoreThan50K  
+43438 >50          ?            Bachelors    Married-civ-spouse       ?            Husband      White        Male         80           United-States            MoreThan50K  
+error_attr: occupation, error_value: ***?
+
+43442 >50          ?            5th-6th      Married-civ-spouse       ***?         Husband      White        Male         84           United-States            MoreThan50K  
+43442 >50          ?            5th-6th      Married-civ-spouse       ?            Husband      White        Male         84           United-States            MoreThan50K  
+error_attr: occupation, error_value: ***?
+
+43458 >50          ?            Bachelors    Married-civ-spouse       ***?         Husband      White        Male         8            United-States            LessThan50K  
+43458 >50          ?            Bachelors    Married-civ-spouse       ?            Husband      White        Male         8            United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+43469 >50          ?            10th         Married-civ-spouse       ***?         Wife         White        Female       40           United-States            LessThan50K  
+43469 >50          ?            10th         Married-civ-spouse       ?            Wife         White        Female       40           United-States            LessThan50K  
+error_attr: occupation, error_value: ***?
+
+43498 >50          Private      Bachelors    Marriedl-civ-spouse      Prof-specialty           Husband      White        Male         50           United-States            MoreThan50K  
+43498 >50          Private      Bachelors    Married-civ-spouse       Prof-specialty           Husband      White        Male         50           United-States            MoreThan50K  
+error_attr: maritalstatus, error_value: Marriedl-civ-spouse
+
+43664 >50          Self-emp-not-inc         HS-grad      Marriekd-civ-spouse      Craft-repair Husband      White        Male         50           United-States            MoreThan50K  
+43664 >50          Self-emp-not-inc         HS-grad      Married-civ-spouse       Craft-repair Husband      White        Male         50           United-States            MoreThan50K  
+error_attr: maritalstatus, error_value: Marriekd-civ-spouse
+
+43687 >50          ***?         Some-college Married-civ-spouse       ?            Husband      White        Male         40           United-States            LessThan50K  
+43687 >50          ?            Some-college Married-civ-spouse       ?            Husband      White        Male         40           United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+43804 >50          Private      Some-college Married-civ-spouse       Sales        Husband      White        ale          25           United-States            MoreThan50K  
+43804 >50          Private      Some-college Married-civ-spouse       Sales        Husband      White        Male         25           United-States            MoreThan50K  
+error_attr: sex, error_value: ale
+
+43857 >50          Private      12th         Married-civ-spose        Craft-repair Husband      White        Male         40           United-States            LessThan50K  
+43857 >50          Private      12th         Married-civ-spouse       Craft-repair Husband      White        Male         40           United-States            LessThan50K  
+error_attr: maritalstatus, error_value: Married-civ-spose
+
+43933 >50          Local-gov    10th         Married-civspouse        Transport-moving         Husband      White        Male         40           United-States            LessThan50K  
+43933 >50          Local-gov    10th         Married-civ-spouse       Transport-moving         Husband      White        Male         40           United-States            LessThan50K  
+error_attr: maritalstatus, error_value: Married-civspouse
+
+43981 >50          Self-emp-not-inc         HS-grad      Maried-civ-spouse        Other-service            Husband      White        Male         55           United-States            MoreThan50K  
+43981 >50          Self-emp-not-inc         HS-grad      Married-civ-spouse       Other-service            Husband      White        Male         55           United-States            MoreThan50K  
+error_attr: maritalstatus, error_value: Maried-civ-spouse
+
+44092 >50          Private      HS-grad      Married-civ-spouse       Exec-managerial          Husband      White        Msale        45           United-States            MoreThan50K  
+44092 >50          Private      HS-grad      Married-civ-spouse       Exec-managerial          Husband      White        Male         45           United-States            MoreThan50K  
+error_attr: sex, error_value: Msale
+
+44249 >50          Private      Some-college Married-civb-spouse      Sales        Husband      White        Male         40           United-States            MoreThan50K  
+44249 >50          Private      Some-college Married-civ-spouse       Sales        Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: maritalstatus, error_value: Married-civb-spouse
+
+44272 >50          Local-gov    Prof-school  Married-civ-spouse       Exec-managerial          Husband      White        ale          40           United-States            MoreThan50K  
+44272 >50          Local-gov    Prof-school  Married-civ-spouse       Exec-managerial          Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: ale
+
+44273 >50          Local-gov    11th         Married-civ-spouse       Other-service            Husband      White        Malle        40           United-States            LessThan50K  
+44273 >50          Local-gov    11th         Married-civ-spouse       Other-service            Husband      White        Male         40           United-States            LessThan50K  
+error_attr: sex, error_value: Malle
+
+44332 >50          Private      9th          Married-civ-spouse       Exec-managerial          Husband      White        Mle          40           United-States            MoreThan50K  
+44332 >50          Private      9th          Married-civ-spouse       Exec-managerial          Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: Mle
+
+44339 >50          Self-emp-inc Some-college Married-civ-spouse       Exec-managerial          Wife         White        mFemale      18-21        United-States            LessThan50K  
+44339 >50          Self-emp-inc Some-college Married-civ-spouse       Exec-managerial          Wife         White        Female       18-21        United-States            LessThan50K  
+error_attr: sex, error_value: mFemale
+
+44415 >50          Self-emp-not-inc         HS-grad      Married-civ-spouse       Sales        Wife         White        Femalie      42           United-States            LessThan50K  
+44415 >50          Self-emp-not-inc         HS-grad      Married-civ-spouse       Sales        Wife         White        Female       42           United-States            LessThan50K  
+error_attr: sex, error_value: Femalie
+
+44488 >50          Private      HS-grad      Married-civ-spose        Machine-op-inspct        Husband      White        Male         30           Italy        LessThan50K  
+44488 >50          Private      HS-grad      Married-civ-spouse       Machine-op-inspct        Husband      White        Male         30           Italy        LessThan50K  
+error_attr: maritalstatus, error_value: Married-civ-spose
+
+44556 >50          Private      11th         Divorced     Farming-fishing          Husband      White        Male         40           United-States            LessThan50K  
+44556 >50          Private      11th         Divorced     Farming-fishing          Not-in-family            White        Male         40           United-States            LessThan50K  
+error_attr: relationship, error_value: Husband
+
+44677 >50          Private      HS-grad      Married-civ-spouse       Transport-moving         Husband      White        aMle         40           United-States            MoreThan50K  
+44677 >50          Private      HS-grad      Married-civ-spouse       Transport-moving         Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: aMle
+
+44681 >50          Private      Some-college Married-ciiv-spouse      Tech-support Husband      White        Male         50           United-States            MoreThan50K  
+44681 >50          Private      Some-college Married-civ-spouse       Tech-support Husband      White        Male         50           United-States            MoreThan50K  
+error_attr: maritalstatus, error_value: Married-ciiv-spouse
+
+44709 >50          Self-emp-not-inc         5th-6th      Married-civ-spouse       Other-service            Husband      White        ale          15           El-Salvador  LessThan50K  
+44709 >50          Self-emp-not-inc         5th-6th      Married-civ-spouse       Other-service            Husband      White        Male         15           El-Salvador  LessThan50K  
+error_attr: sex, error_value: ale
+
+44711 >50          Private      11th         arried-civ-spouse        Adm-clerical Husband      White        Male         40           United-States            LessThan50K  
+44711 >50          Private      11th         Married-civ-spouse       Adm-clerical Husband      White        Male         40           United-States            LessThan50K  
+error_attr: maritalstatus, error_value: arried-civ-spouse
+
+44753 >50          Private      Assoc-voc    Marriewd-civ-spouse      Sales        Husband      White        Male         50           United-States            LessThan50K  
+44753 >50          Private      Assoc-voc    Married-civ-spouse       Sales        Husband      White        Male         50           United-States            LessThan50K  
+error_attr: maritalstatus, error_value: Marriewd-civ-spouse
+
+44773 >50          Self-emp-not-inc         Some-college Married-civ-spouse       Craft-repair Husband      White        Mael         18-21        United-States            MoreThan50K  
+44773 >50          Self-emp-not-inc         Some-college Married-civ-spouse       Craft-repair Husband      White        Male         18-21        United-States            MoreThan50K  
+error_attr: sex, error_value: Mael
+
+44789 >50          ***?         Bachelors    Married-civ-spouse       ?            Husband      White        Male         40           United-States            LessThan50K  
+44789 >50          ?            Bachelors    Married-civ-spouse       ?            Husband      White        Male         40           United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+44794 >50          Private      Some-college Married-civ-spouse       Craft-repair Husband      White        Mahle        48           United-States            MoreThan50K  
+44794 >50          Private      Some-college Married-civ-spouse       Craft-repair Husband      White        Male         48           United-States            MoreThan50K  
+error_attr: sex, error_value: Mahle
+
+44929 18-21        Private      Some-college Never-married            Prof-specialty           Unmarried    White        Male         40           United-States            MoreThan50K  
+44929 >50          Private      Some-college Never-married            Prof-specialty           Unmarried    White        Male         40           United-States            MoreThan50K  
+error_attr: age, error_value: 18-21
+
+44961 >50          ?            Bachelors    arried-civ-spouse        ?            Husband      White        Male         8            United-States            MoreThan50K  
+44961 >50          ?            Bachelors    Married-civ-spouse       ?            Husband      White        Male         8            United-States            MoreThan50K  
+error_attr: maritalstatus, error_value: arried-civ-spouse
+
+45035 >50          Private      Some-college Married-civ-spuse        Craft-repair Husband      White        Male         40           Columbia     LessThan50K  
+45035 >50          Private      Some-college Married-civ-spouse       Craft-repair Husband      White        Male         40           Columbia     LessThan50K  
+error_attr: maritalstatus, error_value: Married-civ-spuse
+
+45091 >50          ***?         HS-grad      Married-civ-spouse       ?            Husband      White        Male         50           United-States            MoreThan50K  
+45091 >50          ?            HS-grad      Married-civ-spouse       ?            Husband      White        Male         50           United-States            MoreThan50K  
+error_attr: workclass, error_value: ***?
+
+45138 >50          State-gov    Some-college Married-civ-spouse       Protective-serv          Husband      White        Mae          40           United-States            LessThan50K  
+45138 >50          State-gov    Some-college Married-civ-spouse       Protective-serv          Husband      White        Male         40           United-States            LessThan50K  
+error_attr: sex, error_value: Mae
+
+45144 >50          Private      Some-college Married-civ-spouse       Craft-repair Husband      White        Malhe        65           United-States            LessThan50K  
+45144 >50          Private      Some-college Married-civ-spouse       Craft-repair Husband      White        Male         65           United-States            LessThan50K  
+error_attr: sex, error_value: Malhe
+
+45205 >50          Federal-gov  Some-college Married-civ-spouse       ?            Husband      White        Male         40           United-States            MoreThan50K  
+45205 >50          Federal-gov  Some-college Married-civ-spouse       Adm-clerical Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: occupation, error_value: ?
+
+45206 >50          Local-gov    Bachelors    Separated    ?            Unmarried    White        Female       55           United-States            LessThan50K  
+45206 >50          Local-gov    Bachelors    Separated    Prof-specialty           Unmarried    White        Female       55           United-States            LessThan50K  
+error_attr: occupation, error_value: ?
+
+45207 >50          Private      HS-grad      Married-civ-spouse       ?            Husband      White        Male         50           United-States            LessThan50K  
+45207 >50          Private      HS-grad      Married-civ-spouse       Craft-repair Husband      White        Male         50           United-States            LessThan50K  
+error_attr: occupation, error_value: ?
+
+45208 >50          Private      HS-grad      Married-civ-spouse       ?            Husband      White        Male         40           United-States            MoreThan50K  
+45208 >50          Private      HS-grad      Married-civ-spouse       Other-service            Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: occupation, error_value: ?
+
+45213 >50          Private      HS-grad      Married-civ-spuose       Craft-repair Husband      White        Male         40           United-States            LessThan50K  
+45213 >50          Private      HS-grad      Married-civ-spouse       Craft-repair Husband      White        Male         40           United-States            LessThan50K  
+error_attr: maritalstatus, error_value: Married-civ-spuose
+
+45360 >50          ***?         Bachelors    Married-civ-spouse       ?            Husband      White        Male         40           United-States            MoreThan50K  
+45360 >50          ?            Bachelors    Married-civ-spouse       ?            Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: workclass, error_value: ***?
+
+45452 >50          Private      Bachelors    Marrield-civ-spouse      Prof-specialty           Husband      White        Male         50           United-States            MoreThan50K  
+45452 >50          Private      Bachelors    Married-civ-spouse       Prof-specialty           Husband      White        Male         50           United-States            MoreThan50K  
+error_attr: maritalstatus, error_value: Marrield-civ-spouse
+
+45479 >50          ***?         Bachelors    Married-civ-spouse       ?            Husband      White        Male         15           United-States            MoreThan50K  
+45479 >50          ?            Bachelors    Married-civ-spouse       ?            Husband      White        Male         15           United-States            MoreThan50K  
+error_attr: workclass, error_value: ***?
+
+45495 >50          Self-emp-not-inc         Prof-school  Married-civ-spouse       Prof-specialty           Husband      White        Mae          50           United-States            MoreThan50K  
+45495 >50          Self-emp-not-inc         Prof-school  Married-civ-spouse       Prof-specialty           Husband      White        Male         50           United-States            MoreThan50K  
+error_attr: sex, error_value: Mae
+
+45696 >50          Federal-gov  10th         Married-civ-spoues       Handlers-cleaners        Husband      Black        Male         40           United-States            LessThan50K  
+45696 >50          Federal-gov  10th         Married-civ-spouse       Handlers-cleaners        Husband      Black        Male         40           United-States            LessThan50K  
+error_attr: maritalstatus, error_value: Married-civ-spoues
+
+45748 >50          Private      Bachelors    Married-civ-spouse       Exec-managerial          Husband      White        Mael         40           United-States            MoreThan50K  
+45748 >50          Private      Bachelors    Married-civ-spouse       Exec-managerial          Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: Mael
+
+45789 >50          ***?         10th         Divorced     ?            Unmarried    White        Male         35           United-States            LessThan50K  
+45789 >50          ?            10th         Divorced     ?            Unmarried    White        Male         35           United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+45795 >50          ?            9th          arried-civ-spouse        ?            Husband      White        Male         18-21        United-States            LessThan50K  
+45795 >50          ?            9th          Married-civ-spouse       ?            Husband      White        Male         18-21        United-States            LessThan50K  
+error_attr: maritalstatus, error_value: arried-civ-spouse
+
+45906 >50          Self-emp-not-inc         HS-grad      Married-civ-spouse       Sales        Wife         White        Femalee      48           United-States            LessThan50K  
+45906 >50          Self-emp-not-inc         HS-grad      Married-civ-spouse       Sales        Wife         White        Female       48           United-States            LessThan50K  
+error_attr: sex, error_value: Femalee
+
+46007 >50          ***?         11th         Divorced     ?            Not-in-family            Black        Female       40           United-States            LessThan50K  
+46007 >50          ?            11th         Divorced     ?            Not-in-family            Black        Female       40           United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+46111 >50          Private      Prof-school  Married-civ-spouse       Prof-specialty           Husband      White        sMale        60           United-States            MoreThan50K  
+46111 >50          Private      Prof-school  Married-civ-spouse       Prof-specialty           Husband      White        Male         60           United-States            MoreThan50K  
+error_attr: sex, error_value: sMale
+
+46190 >50          ?            Some-college Married-civ-spouse       ?            Husband      White        Mlae         15           United-States            LessThan50K  
+46190 >50          ?            Some-college Married-civ-spouse       ?            Husband      White        Male         15           United-States            LessThan50K  
+error_attr: sex, error_value: Mlae
+
+46201 >50          Self-emp-inc Masters      Married-civ-spouse       Sales        Husband      White        ale          68           United-States            MoreThan50K  
+46201 >50          Self-emp-inc Masters      Married-civ-spouse       Sales        Husband      White        Male         68           United-States            MoreThan50K  
+error_attr: sex, error_value: ale
+
+46247 >50          Private      HS-grad      Married-civ-spouse       Craft-repair Husband      White        zMale        48           United-States            LessThan50K  
+46247 >50          Private      HS-grad      Married-civ-spouse       Craft-repair Husband      White        Male         48           United-States            LessThan50K  
+error_attr: sex, error_value: zMale
+
+46290 >50          ***?         Bachelors    Married-civ-spouse       ?            Husband      White        Male         8            United-States            MoreThan50K  
+46290 >50          ?            Bachelors    Married-civ-spouse       ?            Husband      White        Male         8            United-States            MoreThan50K  
+error_attr: workclass, error_value: ***?
+
+46319 >50          ?            HS-grad      Married-civ-spouse       ?            Husband      White        ale          14           United-States            LessThan50K  
+46319 >50          ?            HS-grad      Married-civ-spouse       ?            Husband      White        Male         14           United-States            LessThan50K  
+error_attr: sex, error_value: ale
+
+46462 >50          Local-gov    10th         Married-civ-spouse       Machine-op-inspct        Wife         White        Male         40           United-States            LessThan50K  
+46462 >50          Local-gov    10th         Married-civ-spouse       Machine-op-inspct        Wife         White        Male         40           ?            LessThan50K  
+error_attr: country, error_value: United-States
+
+46486 >50          Private      HS-grad      Marride-civ-spouse       Adm-clerical Husband      White        Male         39           United-States            LessThan50K  
+46486 >50          Private      HS-grad      Married-civ-spouse       Adm-clerical Husband      White        Male         39           United-States            LessThan50K  
+error_attr: maritalstatus, error_value: Marride-civ-spouse
+
+46578 >50          Private      HS-grad      Married-civ-spouse       Other-service            Husband      White        ale          18-21        United-States            LessThan50K  
+46578 >50          Private      HS-grad      Married-civ-spouse       Other-service            Husband      White        Male         18-21        United-States            LessThan50K  
+error_attr: sex, error_value: ale
+
+46627 >50          Local-gov    Assoc-voc    Married-civ-spouse       Exec-managerial          Husband      White        Mgale        40           United-States            MoreThan50K  
+46627 >50          Local-gov    Assoc-voc    Married-civ-spouse       Exec-managerial          Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: Mgale
+
+46721 >50          Private      Doctorate    Married-civ-spouse       Prof-specialty           Husband      White        ale          60           United-States            MoreThan50K  
+46721 >50          Private      Doctorate    Married-civ-spouse       Prof-specialty           Husband      White        Male         60           United-States            MoreThan50K  
+error_attr: sex, error_value: ale
+
+46739 >50          ***?         Prof-school  Married-civ-spouse       ?            Husband      White        Male         16           United-States            LessThan50K  
+46739 >50          ?            Prof-school  Married-civ-spouse       ?            Husband      White        Male         16           United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+46873 >50          Private      Some-college Married-civ-spouse       Protective-serv          Husband      White        qMale        16           United-States            LessThan50K  
+46873 >50          Private      Some-college Married-civ-spouse       Protective-serv          Husband      White        Male         16           United-States            LessThan50K  
+error_attr: sex, error_value: qMale
+
+46874 >50          State-gov    Masters      Married-civ-spouse       Prof-specialty           Husband      White        Maple        35           United-States            MoreThan50K  
+46874 >50          State-gov    Masters      Married-civ-spouse       Prof-specialty           Husband      White        Male         35           United-States            MoreThan50K  
+error_attr: sex, error_value: Maple
+
+46892 >50          Self-emp-not-inc         Bachelors    Married-civ-spcouse      Sales        Husband      White        Male         15           United-States            LessThan50K  
+46892 >50          Self-emp-not-inc         Bachelors    Married-civ-spouse       Sales        Husband      White        Male         15           United-States            LessThan50K  
+error_attr: maritalstatus, error_value: Married-civ-spcouse
+
+46920 >50          Private      HS-grad      Married-civ-spouse       Adm-clerical Husband      White        Mael         18-21        United-States            LessThan50K  
+46920 >50          Private      HS-grad      Married-civ-spouse       Adm-clerical Husband      White        Male         18-21        United-States            LessThan50K  
+error_attr: sex, error_value: Mael
+
+47047 >50          Private      Some-college Married-civ-spouse       Sales        Husband      White        Mzale        40           ?            LessThan50K  
+47047 >50          Private      Some-college Married-civ-spouse       Sales        Husband      White        Male         40           ?            LessThan50K  
+error_attr: sex, error_value: Mzale
+
+47142 >50          ***?         HS-grad      Married-civ-spouse       ?            Husband      Black        Male         18-21        United-States            LessThan50K  
+47142 >50          ?            HS-grad      Married-civ-spouse       ?            Husband      Black        Male         18-21        United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+47166 >50          Private      Some-college Married-civ-spouse       Protective-serv          Husband      White        Maqle        40           Canada       LessThan50K  
+47166 >50          Private      Some-college Married-civ-spouse       Protective-serv          Husband      White        Male         40           Canada       LessThan50K  
+error_attr: sex, error_value: Maqle
+
+47214 >50          Private      Bachelors    Married-civ-spouse       Sales        Husband      White        Mae          15           United-States            MoreThan50K  
+47214 >50          Private      Bachelors    Married-civ-spouse       Sales        Husband      White        Male         15           United-States            MoreThan50K  
+error_attr: sex, error_value: Mae
+
+47266 >50          State-gov    HS-grad      Widowed      Prof-specialty           Husband      Black        Female       35           United-States            LessThan50K  
+47266 >50          State-gov    HS-grad      Widowed      Prof-specialty           Unmarried    Black        Female       35           United-States            LessThan50K  
+error_attr: relationship, error_value: Husband
+
+47304 >50          ***?         Some-college Widowed      ?            Not-in-family            White        Female       4            United-States            LessThan50K  
+47304 >50          ?            Some-college Widowed      ?            Not-in-family            White        Female       4            United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+47365 >50          ***?         11th         Married-civ-spouse       ?            Husband      White        Male         8            United-States            LessThan50K  
+47365 >50          ?            11th         Married-civ-spouse       ?            Husband      White        Male         8            United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+47380 >50          Self-emp-not-inc         7th-8th      Married-civ-spouse       Exec-managerial          Husband      White        Msale        40           United-States            LessThan50K  
+47380 >50          Self-emp-not-inc         7th-8th      Married-civ-spouse       Exec-managerial          Husband      White        Male         40           United-States            LessThan50K  
+error_attr: sex, error_value: Msale
+
+47519 >50          ***?         HS-grad      Widowed      ?            Not-in-family            White        Female       32           United-States            LessThan50K  
+47519 >50          ?            HS-grad      Widowed      ?            Not-in-family            White        Female       32           United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+47571 >50          ?            Some-college Married-civ-spouse       ?            Husband      White        Malue        10           United-States            MoreThan50K  
+47571 >50          ?            Some-college Married-civ-spouse       ?            Husband      White        Male         10           United-States            MoreThan50K  
+error_attr: sex, error_value: Malue
+
+47593 >50          ***?         11th         Married-civ-spouse       ?            Husband      White        Male         30           United-States            LessThan50K  
+47593 >50          ?            11th         Married-civ-spouse       ?            Husband      White        Male         30           United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+47717 >50          ***?         HS-grad      Married-civ-spouse       ?            Husband      White        Male         5            United-States            LessThan50K  
+47717 >50          ?            HS-grad      Married-civ-spouse       ?            Husband      White        Male         5            United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+47771 >50          ?            HS-grad      Married-civ-spouse       ?            Husband      White        Mle          45           United-States            MoreThan50K  
+47771 >50          ?            HS-grad      Married-civ-spouse       ?            Husband      White        Male         45           United-States            MoreThan50K  
+error_attr: sex, error_value: Mle
+
+47797 >50          ?            Bachelors    Married-civ-spouse       ?            Husband      White        ale          40           United-States            MoreThan50K  
+47797 >50          ?            Bachelors    Married-civ-spouse       ?            Husband      White        Male         40           United-States            MoreThan50K  
+error_attr: sex, error_value: ale
+
+47811 >50          Private      Doctorate    Married-civ-spoyuse      Prof-specialty           Husband      White        Male         40           China        MoreThan50K  
+47811 >50          Private      Doctorate    Married-civ-spouse       Prof-specialty           Husband      White        Male         40           China        MoreThan50K  
+error_attr: maritalstatus, error_value: Married-civ-spoyuse
+
+47854 >50          Self-emp-not-inc         Assoc-voc    Married-civ-spouse       Farming-fishing          Husband      White        Mwale        40           United-States            LessThan50K  
+47854 >50          Self-emp-not-inc         Assoc-voc    Married-civ-spouse       Farming-fishing          Husband      White        Male         40           United-States            LessThan50K  
+error_attr: sex, error_value: Mwale
+
+47931 >50          Private      10th         Married-civ-spouse       Machine-op-inspct        Husband      White        ale          50           United-States            LessThan50K  
+47931 >50          Private      10th         Married-civ-spouse       Machine-op-inspct        Husband      White        Male         50           United-States            LessThan50K  
+error_attr: sex, error_value: ale
+
+47999 >50          ?            7th-8th      Married-civ-spouse       ?            Husband      White        Meale        24           United-States            LessThan50K  
+47999 >50          ?            7th-8th      Married-civ-spouse       ?            Husband      White        Male         24           United-States            LessThan50K  
+error_attr: sex, error_value: Meale
+
+48005 >50          ***?         5th-6th      Married-civ-spouse       ?            Husband      White        Male         40           Hungary      LessThan50K  
+48005 >50          ?            5th-6th      Married-civ-spouse       ?            Husband      White        Male         40           Hungary      LessThan50K  
+error_attr: workclass, error_value: ***?
+
+48077 >50          ***?         HS-grad      Widowed      ?            Unmarried    White        Male         24           United-States            LessThan50K  
+48077 >50          ?            HS-grad      Widowed      ?            Unmarried    White        Male         24           United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+48078 >50          Private      HS-grad      Maried-civ-spouse        Exec-managerial          Husband      White        Male         45           United-States            MoreThan50K  
+48078 >50          Private      HS-grad      Married-civ-spouse       Exec-managerial          Husband      White        Male         45           United-States            MoreThan50K  
+error_attr: maritalstatus, error_value: Maried-civ-spouse
+
+48132 >50          Private      7th-8th      Married-civ-spouse       Other-service            Husband      White        Mael         18-21        United-States            LessThan50K  
+48132 >50          Private      7th-8th      Married-civ-spouse       Other-service            Husband      White        Male         18-21        United-States            LessThan50K  
+error_attr: sex, error_value: Mael
+
+48138 >50          Private      Some-college Married-civ-spouse       Adm-clerical Husband      White        Malde        15           United-States            LessThan50K  
+48138 >50          Private      Some-college Married-civ-spouse       Adm-clerical Husband      White        Male         15           United-States            LessThan50K  
+error_attr: sex, error_value: Malde
+
+48153 >50          ***?         HS-grad      Widowed      ?            Not-in-family            White        Male         30           United-States            LessThan50K  
+48153 >50          ?            HS-grad      Widowed      ?            Not-in-family            White        Male         30           United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+48194 >50          Self-emp-not-inc         Some-college Married-civ-spouse       Farming-fishing          Husband      White        Malte        74           United-States            LessThan50K  
+48194 >50          Self-emp-not-inc         Some-college Married-civ-spouse       Farming-fishing          Husband      White        Male         74           United-States            LessThan50K  
+error_attr: sex, error_value: Malte
+
+48318 >50          Private      Some-college Married-civ-spouse       Prof-specialty           Husband      White        Maale        50           United-States            MoreThan50K  
+48318 >50          Private      Some-college Married-civ-spouse       Prof-specialty           Husband      White        Male         50           United-States            MoreThan50K  
+error_attr: sex, error_value: Maale
+
+48349 >50          ***?         9th          Married-civ-spouse       ?            Husband      White        Male         40           United-States            LessThan50K  
+48349 >50          ?            9th          Married-civ-spouse       ?            Husband      White        Male         40           United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+48489 >50          ***?         Bachelors    Widowed      ?            Other-relative           Asian-Pac-Islander       Male         32           China        LessThan50K  
+48489 >50          ?            Bachelors    Widowed      ?            Other-relative           Asian-Pac-Islander       Male         32           China        LessThan50K  
+error_attr: workclass, error_value: ***?
+
+48505 >50          ***?         Bachelors    Married-civ-spouse       ?            Husband      White        Male         10           United-States            LessThan50K  
+48505 >50          ?            Bachelors    Married-civ-spouse       ?            Husband      White        Male         10           United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+48523 >50          ***?         Bachelors    Married-civ-spouse       ?            Husband      White        Male         30           United-States            LessThan50K  
+48523 >50          ?            Bachelors    Married-civ-spouse       ?            Husband      White        Male         30           United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+48584 >50          Private      9th          Married-civ-spouse       Priv-house-serv          Wife         Black        Feale        10           United-States            LessThan50K  
+48584 >50          Private      9th          Married-civ-spouse       Priv-house-serv          Wife         Black        Female       10           United-States            LessThan50K  
+error_attr: sex, error_value: Feale
+
+48606 >50          ***?         HS-grad      Widowed      ?            Not-in-family            White        Female       1            United-States            LessThan50K  
+48606 >50          ?            HS-grad      Widowed      ?            Not-in-family            White        Female       1            United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+48654 >50          ?            Masters      Married-civ-spuose       ?            Husband      White        Male         40           Poland       MoreThan50K  
+48654 >50          ?            Masters      Married-civ-spouse       ?            Husband      White        Male         40           Poland       MoreThan50K  
+error_attr: maritalstatus, error_value: Married-civ-spuose
+
+48691 >50          ***?         HS-grad      Married-civ-spouse       ?            Husband      White        Male         25           United-States            LessThan50K  
+48691 >50          ?            HS-grad      Married-civ-spouse       ?            Husband      White        Male         25           United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+48731 >50          ***?         Assoc-voc    Divorced     ?            Unmarried    White        Female       1            ?            LessThan50K  
+48731 >50          ?            Assoc-voc    Divorced     ?            Unmarried    White        Female       1            ?            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+48753 >50          Private      HS-grad      Widowed      Protective-serv          Husband      White        Male         55           United-States            LessThan50K  
+48753 >50          Private      HS-grad      Widowed      Protective-serv          Not-in-family            White        Male         55           United-States            LessThan50K  
+error_attr: relationship, error_value: Husband
+
+48764 >50          Self-emp-inc Some-college arried-civ-spouse        Sales        Husband      White        Male         35           United-States            MoreThan50K  
+48764 >50          Self-emp-inc Some-college Married-civ-spouse       Sales        Husband      White        Male         35           United-States            MoreThan50K  
+error_attr: maritalstatus, error_value: arried-civ-spouse
+
+48787 >50          ***?         10th         Married-civ-spouse       ?            Husband      White        Male         18-21        United-States            LessThan50K  
+48787 >50          ?            10th         Married-civ-spouse       ?            Husband      White        Male         18-21        United-States            LessThan50K  
+error_attr: workclass, error_value: ***?
+
+
