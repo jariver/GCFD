@@ -1,0 +1,31 @@
+# basic 
+Language: Cpp
+BasedOnStyle: Google
+ColumnLimit: 120
+UseTab: Never
+IndentWidth: 2
+TabWidth: 2
+MaxEmptyLinesToKeep: 1
+
+# Only sort headers in each include block
+SortIncludes: true
+IncludeBlocks: Preserve
+PointerAlignment: Left
+DerivePointerAlignment: false
+AlignConsecutiveAssignments: false
+AlignConsecutiveDeclarations: false
+AlignConsecutiveMacros: true
+FixNamespaceComments: true
+AlignTrailingComments: true
+SpacesBeforeTrailingComments: 2
+SpacesInLineCommentPrefix:
+  Minimum: 1
+  Maximum: 1
+AllowShortFunctionsOnASingleLine: All
+
+#   #if defined(WIN)
+#   #  include <windows.h>
+#   #else
+#   #  include <curl.h>
+#   #endif
+IndentPPDirectives: AfterHash

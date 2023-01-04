@@ -13,7 +13,7 @@
 <br>
 
 - label: label files. (In our experiment, we used clean version instead of manual labeling, so the folder was not used in our experiment)
-- libs: various module programs
+- srcs: various module programs
 <br>
 
 - results: result files
